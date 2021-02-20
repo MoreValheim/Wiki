@@ -1,3 +1,13 @@
-site_name: My Docs
+site_name: MoreValheim
 theme:
-  name: material
+  name: 'material'
+  palette:
+    scheme: slate
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.emoji
+  - toc:
+      permalink: true
