@@ -15,7 +15,7 @@ img {width:30px;}
 
 Raspberries is an item found in Valheim.
 
-|        | Yellow Mushroom              |
+|        | Raspberries              |
 | ----------- | ------------------------------------ |
 | Type       | [Food](../../type/food)  |
 | Source      | Raspberry bushes in [Meadows](../../biomes/meadows) |
