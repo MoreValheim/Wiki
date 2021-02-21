@@ -18,9 +18,9 @@ Bronze helmet is an [armor piece](../../equipment/armor) found in Valheim.
 |        | Bronze Helmet                   |
 | ----------- | ------------------------------------ |
 | Type       | [Head](../../equipment/armor#head-slot)  |
-| Source      | [Forge](../../structures/forge) |
-| Set | [Bronze armour](../../equipment/armor/sets#bronze)
-| To unlock | - Obtain [Deer Hide](../../items/deer_hide) <br>-  Obtain [Bronze](../../items/bronze) |
+| Source      | [Forge](../../objects/forge) |
+| Set | [Bronze armor](../../equipment/armor/sets#bronze)
+| To unlock | - obtain [Deer Hide](../../items/deer_hide) <br>-  obtain [Bronze](../../items/bronze) |
 
 -------------
 
@@ -33,4 +33,4 @@ Bronze helmet is an [armor piece](../../equipment/armor) found in Valheim.
 
 ### Trivia
 * Currently, wearing the Bronze Helmet and [Iron Helmet](../../items/iron_helmet) make your character's hair disappear. This is most likely a bug.
-* The Bronze Helmet is the only piece of [Bronze armour](../../equipment/armor/sets#bronze) that does not negatively affect movement speed.
+* The Bronze Helmet is the only piece of [Bronze armor](../../equipment/armor/sets#bronze) that does not negatively affect movement speed.
