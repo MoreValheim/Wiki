@@ -3,7 +3,9 @@ theme:
   name: 'material'
   palette:
     scheme: preference
+    primary: blue grey
   favicon: favicon.png
+  logo: favicon.png
 markdown_extensions:
   - admonition
   - pymdownx.details
