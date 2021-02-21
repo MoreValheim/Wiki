@@ -2,12 +2,8 @@ site_name: MoreValheim
 theme:
   name: 'material'
   palette:
-    scheme: slate
+    scheme: preference
 markdown_extensions:
   - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.tabbed
-  - pymdownx.emoji
   - toc:
       permalink: true
