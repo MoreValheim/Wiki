@@ -51,8 +51,6 @@ The workbench can also be used to disable [enemy](../../creatures#hostile) spawn
 
 #### How to build:
 
-You need to have a [workbench](../../objects/workbench) nearby in order to construct a workbench.
-
 1. Equip your [hammer](../../items/hammer)
 2. Right-click
 3. Press [Q/E] to switch to the [Crafting tab](../../misc/building_interface#crafting_tab) of the [building interface](../../misc/building_interface)

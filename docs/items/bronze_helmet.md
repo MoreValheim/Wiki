@@ -24,7 +24,7 @@ Bronze helmet is an [armor piece](../../equipment/armor) found in Valheim.
 
 -------------
 
-| Quality | Armor | Materials Needed                                                                                                             | Weight | Durability | Cracting Level | Repair Level |
+| Quality | Armor | Materials Needed                                                                                                             | Weight | Durability | Crafting Level | Repair Level |
 | ------- | ----- | ---------------------------------------------------------------------------------------------------------------------------- | ------ | ---------- | ---- | -- |
 | 1       | 8     | [![Deer Hide](/assets/deer_hide.png)](../../items/deer_hide) x 2 <br>[![Bronze](/assets/bronze.png)](../../items/bronze) x 5 | 3      | 1000       | 1    | 1  |
 | 2       | 10    | [![Bronze](/assets/bronze.png)](../../items/bronze) x 3                                             | 3      | 1200       | 2    | 1  |

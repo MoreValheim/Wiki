@@ -15,7 +15,7 @@ img {width:30px;}
 
 Bronze is an item found in Valheim.
 
-This item can not be carried through a [Portal](../../misc/portal).
+This item can not be carried through a [Portal](../../objects/portal).
 
 |        | Bronze                  |
 | ----------- | ------------------------------------ |
@@ -23,7 +23,7 @@ This item can not be carried through a [Portal](../../misc/portal).
 | Source      | [Forge](../../objects/forge) |
 | Weight | 12
 | Max Stack | 30
-| Teleporable | X
+| Teleportable | X
 | To unlock | ? |
 
 -------------
