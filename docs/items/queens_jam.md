@@ -8,7 +8,7 @@ img {width:30px;}
 
 <figure>
 <img src="/assets/queens_jam.png" class="tb" />
-<figcaption><small>That classic tasty blend of <a href="../../items/raspberries">raspberries</a> and <a href="../../items/blueberries">blueberries</a>).</small></figcaption>
+<figcaption><small>That classic tasty blend of <a href="../../items/raspberries">raspberries</a> and <a href="../../items/blueberries">blueberries</a>.</small></figcaption>
 </figure>
 
 -------------
