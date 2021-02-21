@@ -25,6 +25,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install mkdocs-material
+          
+      - name: Create CNAME
+        run: |
+          echo morevalheim.com > CNAME
 
       - name: Deploy
         run: |
