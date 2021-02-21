@@ -14,6 +14,7 @@
 
 |                                                                        | Name                                      | 1 | 2 | 3 | 4 | Set                                       |
 | ---------------------------------------------------------------------- | ----------------------------------------- | - | - | - | - | ----------------------------------------- |
+| [![Dverger Circlet](/assets/dverger_circlet.png)](/items/dverger_circlet) | [Dverger Circlet](/items/dverger_circlet)   | ? | ? | ? | ? | None |
 | [![Hood of Odin](/assets/hood_of_odin.png)](/items/hood_of_odin) | [Hood of Odin](/items/hood_of_odin)   | 1 |   |   |   | None |
 | [![Leather Helmet](/assets/leather_helmet.png)](/items/leather_helmet) | [Leather Helmet](/items/leather_helmet)   | 2 | 4 | 6 | 8 | [Leather](/equipment/armor/sets#leather)* |
 | [![Bronze Helmet](/assets/bronze_helmet.png)](/items/bronze_helmet)    | [Bronze Helmet](/items/bronze_helmet)     | 2 | 4 | 6 | 8 | [Bronze](/equipment/armor/sets#bronze)*   |
