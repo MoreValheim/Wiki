@@ -2,7 +2,7 @@
 
 <style>
 img {width:30px;}
-.tb {width:150px}
+.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}
 </style>
 
 <figure>
