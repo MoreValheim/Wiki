@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Another Valheim Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<style>
+.c2{
+    padding-left:13px!important;
+}
+.c3{
+    padding-left:26px!important;
+}
+</style>
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+| Contents |
+| - |
+| - Equipment <br> <blah class="c2">- [Armor](/equipment/armor)</blah><br> <blah class="c3">- [Head Armor](/equipment/armor#head-slot)</blah><br> <blah class="c3">- [Body Armor](/equipment/armor#body-slot)</blah><br> <blah class="c3">- [Laggings](/equipment/armor#legs-slot)</blah><br> <blah class="c3">- [Capes](/equipment/armor#cape-slot)</blah><br> <blah class="c3">- [Accessories](/equipment/armor#accessory-slot)</blah><br> <blah class="c3">- [Sets](/equipment/armor/sets)</blah><br> - Items <br> - Objects |

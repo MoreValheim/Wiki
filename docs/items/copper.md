@@ -42,6 +42,6 @@ This item can not be carried through a [Portal](../../misc/portal).
 
 * [Bronze](../../items/bronze)
 * [Copper Knife](../../items/copper_knife)
-* [Forge](../../items/forge)
-* [Forge Cooler](../../items/forge_cooler)
-* [Sconce](../../items/sconce)
+* [Forge](../../objects/forge)
+* [Forge Cooler](../../objects/forge_cooler)
+* [Sconce](../../objects/sconce)
