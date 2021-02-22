@@ -1,15 +1,9 @@
 # Raspberries
 -------------
 
-<style>
-img {width:30px;}
-.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}
-</style>
+<style>img {width:30px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
-<figure>
-<img src="/assets/raspberries.png" class="tb" />
-<figcaption><small>Sweet and delicious.</small></figcaption>
-</figure>
+<figure><img src="/assets/raspberries.png" class="tb" /><figcaption><small>Sweet and delicious.</small></figcaption></figure>
 
 -------------
 
