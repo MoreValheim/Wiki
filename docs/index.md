@@ -1,5 +1,11 @@
+Title:   My Document
+Summary: A brief description of my document.
+Authors: Waylan Limberg
+         Tom Christie
+Date:    January 23, 2018
+blank-value:
+some_url: https://example.com
 # Another Valheim Wiki
-
 <style>
 .c2{
     padding-left:13px!important;

@@ -2,7 +2,7 @@
 -------------
 <style>img {width:30px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
-<figure><img src="/assets/blueberries.png" class="tb" /><figcaption><small>Caption</small></figcaption></figure>
+<figure><img src="/assets/blueberries.png" class="tb" /><figcaption><small>Tiny but tasty.</small></figcaption></figure>
 
 -------------
 
@@ -12,9 +12,9 @@ Blueberries is an item found in Valheim.
 | ----------- | ------------------------------------ |
 | Type       | [Food](../../type/food)  |
 | Usage | - Crafting<br>- Eating<br>- Building<br>
-| Source | Raspberry bushes
+| Source | Raspberry bushes in [Meadows](../../biomes/meadows) |
 | Weight | 0.1 |
 | Max Stack | 50 |
-| Teleportable | ✓ |
+| Teleportable | ✓
 | To unlock | N/A |
 | Effects | ❤️ Max Health 10<br>🕒 Duration 600<br>💕 Healing 1<br>
