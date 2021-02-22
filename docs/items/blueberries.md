@@ -1,11 +1,4 @@
-<meta property="og:title" content="Blueberries - MoreValheim" />
-<meta property="og:type" content="website" />
-<meta property="og:image" content="/assets/blueberries.png" />
-<meta property="og:description" content="Blueberries is an item found in Valheim." />
-<meta name="theme-color" content="#546D78">
-
-<!-- Include this to make the og:image larger -->
-<meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="Blueberries - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/blueberries.png" /><meta property="og:description" content="Blueberries is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
 
 #Blueberries
 -------------
