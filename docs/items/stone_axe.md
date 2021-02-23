@@ -12,13 +12,14 @@ Stone Axe is an item found in Valheim.
 
 |        | Stone Axe              |
 | ----------- | ------------------------------------ |
-| Type | [Axe](../../type/axe)
+| Type | [Axe](../../types/axe)
 | Usage | Chopping<br>Wood<br>
 | Source | [Player Crafting](../../misc/player_crafting)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
 | Movespeed Speed | -5%
+| Wielding | One-handed
 
 
 -------------
@@ -28,6 +29,6 @@ Stone Axe is an item found in Valheim.
 | Quality | Materials Needed | Pierce | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus |
 | - | - | - | - | - | - | - | - |
 | 1 | [![Wood](/assets/wood.png)](../../items/wood) [Wood](../../items/wood) x 5 <br>[![Stone](/assets/stone.png)](../../items/stone) [Stone](../../items/stone) x 4 <br> | 0 | 3 | 50 | 10 | 20 | 2 |
-| 2 | [![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) x undefined <br> | 0 | ? | ? | 10 | 25 | FALSE |
-| 3 | [![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) x undefined <br> | 0 | ? | ? | 10 | 30 | FALSE |
-| 4 | [![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) x undefined <br> | 0 | ? | ? | 10 | FALSE | FALSE |
+| 2 | [![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) x undefined <br> | 0 | ? | ? | 10 | 25 | ? |
+| 3 | [![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) x undefined <br> | 0 | ? | ? | 10 | 30 | ? |
+| 4 | [![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) x undefined <br> | 0 | ? | ? | 10 | FALSE | ? |
