@@ -8,7 +8,7 @@
 
 -------------
 
-Barley Flour is an item found in Valheim.
+Barley flour is an item found in Valheim.
 
 |        | Barley Flour              |
 | ----------- | ------------------------------------ |
