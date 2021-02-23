@@ -1,4 +1,4 @@
-<meta property="og:title" content="Blueberries - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/blueberries.png" /><meta property="og:description" content="Blueberries is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="barley flour - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/barley_flour.png" /><meta property="og:description" content="barley flour is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
 #Barley Flour
 -------------
 <style>img {width:30px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
@@ -16,7 +16,7 @@ Barley Flour is an item found in Valheim.
 | Usage | Crafting<br>
 | Source | [Windmill](../../objects/windmill)
 | Weight | ? |
-| Max Stack | 20 |
+| Max Stack | 50 |
 | Teleportable | ✓
 | To Unlock | • find [?](../../items/?)<br>
 
