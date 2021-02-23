@@ -14,7 +14,7 @@ img {width:30px;}
 
 Dverger circlet is an [armor piece](../../equipment/armor) found in Valheim.
 
-It can be purchased from [Holder (the trader)](../../creatures/holder) for 620 [Coins](../../item/coins). The helmet grants you a never ending light source when equipped.
+It can be purchased from [Holder (the trader)](../../creatures/holder) for 620 [Coins](../../items/coins). The helmet grants you a never ending light source when equipped.
 
 |        | Dverger Circlet                   |
 | ----------- | ------------------------------------ |

@@ -1,29 +1,33 @@
 <meta property="og:title" content="Blueberries - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/blueberries.png" /><meta property="og:description" content="Blueberries is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
-#Mushroom
+#Wood
 -------------
 <style>img {width:30px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
-<figure><img src="/assets/mushroom.png" class="tb" /><figcaption><small>Bounty of the forest.</small></figcaption></figure>
+<figure><img src="/assets/wood.png" class="tb" /><figcaption><small>Good strong wood to build with.</small></figcaption></figure>
 
 -------------
 
-Mushroom is an item found in Valheim.
+Wood is an item found in Valheim.
 
-|        | Mushroom              |
+|        | Wood              |
 | ----------- | ------------------------------------ |
-| Type       | [Food](../../type/food)  |
-| Usage | Eating<br>
-| Source | Meadows, black forest
-| Weight | 0.1 |
+| Type | [Wood](../../type/wood)
+| Usage | Crafting,<br>Building<br>
+| Source | [Trees](../../world/trees), [Bushes](../../world/bushes), [Greydwarfs](../../creatures/greydwarfs)
+| Weight | 2 |
 | Max Stack | 50 |
 | Teleportable | ✓
-| To unlock | N/A |
-| Effects | ❤️ Max Health 15<br>🕒 Duration 600<br>💕 Healing 1<br>
+
+
 
 -------------
 
-#### Crafting
+#### Used in:
 
-| Materials needed |
-| - |
-| [![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../bronze) x 3 |
+* [Antler Pickaxe](../antler_pickaxe)
+* [Club](../club)
+* [Crude Bow](../crude_bow)
+* [Hoe](../hoe)
+* [Stone Axe](../stone_axe)
+* [Wood Shield](../wood_shield)
+* [Wood Torch](../wood_torch)

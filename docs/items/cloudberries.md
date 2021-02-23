@@ -1,29 +1,28 @@
 <meta property="og:title" content="Blueberries - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/blueberries.png" /><meta property="og:description" content="Blueberries is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
-#Mushroom
+#Cloudberries
 -------------
 <style>img {width:30px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
-<figure><img src="/assets/mushroom.png" class="tb" /><figcaption><small>Bounty of the forest.</small></figcaption></figure>
+<style>.md-typeset table:not([class]) th:not([align]) {min-width:unset!important;}</style>
+<figure><img src="/assets/cloudberries.png" class="tb" /><figcaption><small>The gold of the forest.</small></figcaption></figure>
 
 -------------
 
-Mushroom is an item found in Valheim.
+Cloudberries is an item found in Valheim.
 
-|        | Mushroom              |
+|        | Cloudberries              |
 | ----------- | ------------------------------------ |
-| Type       | [Food](../../type/food)  |
-| Usage | Eating<br>
-| Source | Meadows, black forest
+| Type | [Food](../../types/food)
+| Usage | Crafting,<br>Eating<br>
+| Source | Plains
 | Weight | 0.1 |
 | Max Stack | 50 |
 | Teleportable | ✓
-| To unlock | N/A |
-| Effects | ❤️ Max Health 15<br>🕒 Duration 600<br>💕 Healing 1<br>
+| Wielding | Two-handed
+| Effects | ❤️ Max Health 15<br>🕒 Duration 800 second(s) <br>💕 Healing 1hp/tick <br>
 
 -------------
 
-#### Crafting
+#### Used in:
 
-| Materials needed |
-| - |
-| [![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../bronze) x 3 |
+* [Medium Stamina Mead](../medium_stamina_mead)

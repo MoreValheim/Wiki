@@ -27,6 +27,6 @@ Tin is an item found in Valheim.
 
 Commonly found in [Burial Chambers](../../locations/burial_chambers) or [Troll Caves](../../locations/troll_caves) in the [Black Forest](../../biomes/black_forest) and [Sunken Crypts](../../locations/sunken_crypts) in the [Swamp](../../biomes/swamp).
 
-They can be eaten raw, or used at a [cauldron](../../item/cauldron) to craft [Mead Base: Minor Stamina](../../item/mead_base_minor_stamina) and [Mead Base: Medium Stamina](../../item/mead_base_medium_stamina).
+They can be eaten raw, or used at a [cauldron](../../items/cauldron) to craft [Mead Base: Minor Stamina](../../items/mead_base_minor_stamina) and [Mead Base: Medium Stamina](../../items/mead_base_medium_stamina).
 
 As with most plants, these regrow naturally after being picked up.
