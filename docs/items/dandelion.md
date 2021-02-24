@@ -1,5 +1,5 @@
-<meta property="og:title" content="Barley - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/barley.png" /><meta property="og:description" content="Barley is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
-#Barley
+<meta property="og:title" content="Dandelion - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/dandelion.png" /><meta property="og:description" content="Dandelion is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
+#Dandelion
 -------------
 <style>img {width:20px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
@@ -11,21 +11,20 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/barley.png" class="tb" /><figcaption><small>A bundle of barley.</small></figcaption></figure>
+<figure><img src="/assets/dandelion.png" class="tb" /><figcaption><small>A dandelion.</small></figcaption></figure>
 
 -------------
 
-Barley is an item found in Valheim.
+Dandelion is an item found in Valheim.
 
-|        | Barley              |
+|        | Dandelion              |
 | ----------- | ------------------------------------ |
-| Type | [Seed](../../types/seed)
-| Usage | Farming,<br>Cooking<br>
-| Source | Fuling village in [Plains](../../biomes/plains) |
-| Weight | 0.2 |
-| Max Stack | 100 |
+| Type | [Material](../../types/material)
+| Usage | Crafting,<br>Building<br>
+| Source | Meadows
+| Weight | 0.1 |
+| Max Stack | 50 |
 | Teleportable | ✓
-| To Unlock | • find [?](../../items/?)<br>
 
 
 -------------
@@ -41,3 +40,8 @@ Barley is an item found in Valheim.
 | 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
 
 #### Used in:
+
+##### Crafting
+
+* [Mead Base: Medium Healing](../mead_base:_medium_healing)
+* [Mead Base: Minor Healing](../mead_base:_minor_healing)

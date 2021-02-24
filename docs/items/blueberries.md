@@ -1,9 +1,16 @@
 <meta property="og:title" content="Blueberries - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/blueberries.png" /><meta property="og:description" content="Blueberries is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
 #Blueberries
 -------------
-<style>img {width:30px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
+<style>img {width:20px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
 <style>.md-typeset table:not([class]) th:not([align]) {min-width:unset!important;}</style>
+<style>td{padding:0em 0.3em!important;text-align:center!important;border-left:.05rem solid var(--md-default-fg-color--lightest)}</style>
+
+<style>th{padding:0.1em 0.3em!important;text-align:center!important;font-weight:bold}</style>
+
+<style>pre{text-align:right!important}</style>
+<style>table tr td:first-child {border-left: 0;};</style>
+
 <figure><img src="/assets/blueberries.png" class="tb" /><figcaption><small>Tiny but tasty.</small></figcaption></figure>
 
 -------------
@@ -13,16 +20,21 @@ Blueberries is an item found in Valheim.
 |        | Blueberries              |
 | ----------- | ------------------------------------ |
 | Type | [Food](../../types/food)
-| Usage | Crafting,<br>Eating,<br>Building<br>
+| Usage | Crafting,<br>Consumable,<br>Building<br>
 | Source | Raspberry bushes in [Meadows](../../biomes/meadows) |
 | Weight | 0.1 |
 | Max Stack | 50 |
 | Teleportable | ✓
-| Wielding | Two-handed
 | Effects | ❤️ Max Health 10<br>⚡ Max Stamina 20<br>🕒 Duration 600 second(s) <br>💕 Healing 1hp/tick <br>
 
 -------------
 
-#### Used in:
+### Upgrades
 
-* [?](../?)
+<small>CL - Crafting level</small><br><small>RL - Repair level</small>
+
+| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
+| - | - | - | - | - | - | - |
+| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
