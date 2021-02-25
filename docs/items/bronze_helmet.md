@@ -19,32 +19,20 @@ Bronze helmet is an item found in Valheim.
 
 |        | Bronze Helmet              |
 | ----------- | ------------------------------------ |
-| Type | [Head](../../types/head)
-| Usage | Protection<br>
-| Source | Forge
+| Type | [Helmet](../../types/helmet)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| To Unlock | • find [Deer Hide](../../items/deer_hide)<br>• find [Bronze](../../items/bronze)<br>
-| Movespeed Speed | ?%
+| Movespeed Speed | 0%
 
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../bronze) x 5</pre> |
-| <pre>[![Deer hide](/assets/deer_hide.png)](../../items/deer_hide) [Deer hide](../deer_hide) x 2</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Armor | Materials | Weight | Durability | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | 8 | <pre>[![Deer Hide](/assets/deer_hide.png)](../../items/deer_hide) [Deer Hide](../../items/deer_hide) <small>x</small> 2</pre><pre>[![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../../items/bronze) <small>x</small> 5</pre> | 3 | 1000 | 1 | 1 |
-| 2 | 10 | <pre>[![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../../items/bronze) <small>x</small> 3</pre> | 3 | 1200 | 2 | 1 |
-| 3 | 12 | <pre>[![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../../items/bronze) <small>x</small> 6</pre> | 3 | 1400 | 3 | 1 |
-| 4 | 14 | <pre>[![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../../items/bronze) <small>x</small> 9</pre> | 3 | 1600 | 4 | 1 |
+| Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
+| - | - | - | - | - | - | - | - 
+1 | 100 | 8 | 4 | 30 | 10 | 0 | 1.5 | 
+ | 2 | 300 | 10 |  |  | 10 | 0 |  | 
+ | 3 | 500 | 12 |  |  | 10 | 0 |  | 

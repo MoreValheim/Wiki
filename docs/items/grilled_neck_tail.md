@@ -19,28 +19,17 @@ Grilled neck tail is an item found in Valheim.
 
 |        | Grilled Neck Tail              |
 | ----------- | ------------------------------------ |
-| Type | [Food](../../types/food)
-| Usage | Consumable<br>
-| Source | [Cooking Station](../../objects/cooking_station)
-| Weight | 4.5 |
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 0.5 |
 | Max Stack | 20 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 | Effects | ❤️ Max Health 35<br>⚡ Max Stamina 20<br>🕒 Duration 1000 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Neck tail](/assets/neck_tail.png)](../../items/neck_tail) [Neck tail](../neck_tail) x 1</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

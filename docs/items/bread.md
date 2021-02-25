@@ -19,29 +19,17 @@ Bread is an item found in Valheim.
 
 |        | Bread              |
 | ----------- | ------------------------------------ |
-| Type | [Food](../../types/food)
-| Usage | Consumable<br>
-| Source | [Cauldron](../../items/cauldron)
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 0.5 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| To Unlock | • find [?](../../items/?)<br>
+| Movespeed Speed | 0%
 | Effects | ❤️ Max Health 40<br>⚡ Max Stamina 70<br>🕒 Duration 1800 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Barley flour](/assets/barley_flour.png)](../../items/barley_flour) [Barley flour](../barley_flour) x 10</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

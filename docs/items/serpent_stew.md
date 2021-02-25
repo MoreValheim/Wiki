@@ -19,31 +19,17 @@ Serpent stew is an item found in Valheim.
 
 |        | Serpent Stew              |
 | ----------- | ------------------------------------ |
-| Type | [Food](../../types/food)
-| Usage | Consumable<br>
-| Source | [Cauldron](../../items/cauldron)
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
-| To Unlock | • find [?](../../items/?)<br>
+| Movespeed Speed | 0%
 | Effects | ❤️ Max Health 80<br>⚡ Max Stamina 80<br>🕒 Duration 2400 second(s) <br>💕 Healing 4hp/tick <br>
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Mushroom](/assets/mushroom.png)](../../items/mushroom) [Mushroom](../mushroom) x 1</pre> |
-| <pre>[![Cooked serpent meat](/assets/cooked_serpent_meat.png)](../../items/cooked_serpent_meat) [Cooked serpent meat](../cooked_serpent_meat) x 1</pre> |
-| <pre>[![Honey](/assets/honey.png)](../../items/honey) [Honey](../honey) x 2</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

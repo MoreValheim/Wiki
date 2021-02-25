@@ -19,34 +19,17 @@ Wood is an item found in Valheim.
 
 |        | Wood              |
 | ----------- | ------------------------------------ |
-| Type | [Wood](../../types/wood)
-| Usage | Crafting,<br>Building<br>
-| Source | [Trees](../../world/trees), [Bushes](../../world/bushes), [Greydwarfs](../../creatures/greydwarfs)
+| Type | [Material](../../types/material)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 50 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-
-#### Used in:
-
-##### Crafting
-
-* [Antler Pickaxe](../antler_pickaxe)
-* [Club](../club)
-* [Crude Bow](../crude_bow)
-* [Hoe](../hoe)
-* [Stone Axe](../stone_axe)
-* [Wood Shield](../wood_shield)
-* [Wood Torch](../wood_torch)
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

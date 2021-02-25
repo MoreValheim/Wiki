@@ -11,7 +11,7 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/stone_axe.png" class="tb" /><figcaption><small>A Crude axe for tree-felling.</small></figcaption></figure>
+<figure><img src="/assets/stone_axe.png" class="tb" /><figcaption><small>~A crude axe for tree-felling.</small></figcaption></figure>
 
 -------------
 
@@ -19,25 +19,21 @@ Stone axe is an item found in Valheim.
 
 |        | Stone Axe              |
 | ----------- | ------------------------------------ |
-| Type | [Axe](../../types/axe)
-| Usage | Chopping<br>Wood<br>
-| Source | [Player Crafting](../../misc/player_crafting)
+| Type | [Onehandedweapon](../../types/onehandedweapon)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5%
+| Movespeed Speed | -5.00000007450581%
 | Wielding | One-handed
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Pierce | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus | CL | RL |
-| - | - | - | - | - | - | - | - | - | - | - |
-| 1 | <pre>[![Wood](/assets/wood.png)](../../items/wood) [Wood](../../items/wood) <small>x</small> 5</pre><pre>[![Stone](/assets/stone.png)](../../items/stone) [Stone](../../items/stone) <small>x</small> 4</pre> | FALSE | 0 | 3 | 50 | 10 | 20 | 2 |? | ? |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | FALSE | 0 | ? | ? | 10 | 25 | ? |? | ? |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | FALSE | 0 | ? | ? | 10 | 30 | ? |? | ? |
-| 4 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | FALSE | 0 | ? | ? | 10 | FALSE | ? |? | ? |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
+| - | - | - | - | - | - | - 
+1 | 100 | FALSE | 3 | 50 | 10 | 20 | 2 | 
+ | 2 | 130 |  |  |  | 10 | 25 |  | 
+ | 3 | 160 |  |  |  | 10 | 30 |  | 

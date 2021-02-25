@@ -19,22 +19,17 @@ Honey is an item found in Valheim.
 
 |        | Honey              |
 | ----------- | ------------------------------------ |
-| Type | [Food](../../types/food)
-| Usage | Crafting<br>
-| Source | [Beehive](../../items/beehive)
-| Weight | 0.2 |
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 0.200000002980232 |
 | Max Stack | 50 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 | Effects | ❤️ Max Health 20<br>⚡ Max Stamina 20<br>🕒 Duration 300 second(s) <br>💕 Healing 5hp/tick <br>
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

@@ -20,37 +20,16 @@ Barley flour is an item found in Valheim.
 |        | Barley Flour              |
 | ----------- | ------------------------------------ |
 | Type | [Material](../../types/material)
-| Usage | Crafting<br>
-| Source | [Windmill](../../objects/windmill)
-| Weight | ? |
-| Max Stack | 50 |
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 0.200000002980232 |
+| Max Stack | 20 |
 | Teleportable | ✓
-| To Unlock | • find [?](../../items/?)<br>
+| Movespeed Speed | 0%
 
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Barley](/assets/barley.png)](../../items/barley) [Barley](../barley) x 1</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-
-#### Used in:
-
-##### Crafting
-
-* [Blood Pudding](../blood_pudding)
-* [Bread](../bread)
-* [Fish Wraps](../fish_wraps)
-* [Lox Meat Pie](../lox_meat_pie)
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

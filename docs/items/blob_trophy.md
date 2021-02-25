@@ -19,22 +19,17 @@ Blob trophy is an item found in Valheim.
 
 |        | Blob Trophy              |
 | ----------- | ------------------------------------ |
-| Type | [Trophy](../../types/trophy)
-| Usage | Decoration<br>
-| Source | [Blob](../../creatures/blob)
+| Type | [Trophie](../../types/trophie)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 20 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

@@ -20,32 +20,16 @@ Chain is an item found in Valheim.
 |        | Chain              |
 | ----------- | ------------------------------------ |
 | Type | [Material](../../types/material)
-| Usage | Crafting,<br>Building<br>
-| Source | [Wraith](../../creatures/wraith), [Sunken Crypts](../../locations/sunken_crypts)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 50 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-
-#### Used in:
-
-##### Crafting
-
-* [Wolf Armor Chest](../wolf_armor_chest)
-* [Black Metal Shield](../black_metal_shield)
-##### Building
-
-* [Hanging Brazier](../hanging_brazier)
-* [Forge Bellows](../forge_bellows)
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

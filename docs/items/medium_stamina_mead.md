@@ -11,7 +11,7 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/medium_stamina_mead.png" class="tb" /><figcaption><small>?</small></figcaption></figure>
+<figure><img src="/assets/medium_stamina_mead.png" class="tb" /><figcaption><small>Restores stamina.</small></figcaption></figure>
 
 -------------
 
@@ -19,24 +19,17 @@ Medium stamina mead is an item found in Valheim.
 
 |        | Medium Stamina Mead              |
 | ----------- | ------------------------------------ |
-| Type | [Mead](../../types/mead)
-| Usage | Crafting,<br>Building<br>
-| Source | [Fermenter](../../objects/fermenter)
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
-| To Unlock | • find [?](../../items/?)<br>
-| Effects | ⚡ Max Stamina 160<br>🕒 Duration 120 second(s) <br>
-| Bonus Effect | Increased rate of stamina recovery<br>
+| Movespeed Speed | 0%
+
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

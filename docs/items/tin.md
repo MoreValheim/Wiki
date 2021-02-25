@@ -1,44 +1,35 @@
-# Tin
+<meta property="og:title" content="Tin - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/tin.png" /><meta property="og:description" content="Tin is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
+#Tin
 -------------
+<style>img {width:20px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
-<style>
-img {width:30px;}
-.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}
-</style>
+<style>.md-typeset table:not([class]) th:not([align]) {min-width:unset!important;}</style>
+<style>td{padding:0em 0.3em!important;text-align:center!important;border-left:.05rem solid var(--md-default-fg-color--lightest)}</style>
 
-<figure>
-<img src="/assets/tin.png" class="tb" />
-<figcaption><small>A bar of pure tin ready to be worked.</small></figcaption>
-</figure>
+<style>th{padding:0.1em 0.3em!important;text-align:center!important;font-weight:bold}</style>
+
+<style>pre{text-align:right!important}</style>
+<style>table tr td:first-child {border-left: 0;};</style>
+
+<figure><img src="/assets/tin.png" class="tb" /><figcaption><small>A bar of pure tin ready to be worked.</small></figcaption></figure>
 
 -------------
 
 Tin is an item found in Valheim.
 
-This item can not be carried through a [Portal](../../objects/portal).
-
-|        | Tin                  |
+|        | Tin              |
 | ----------- | ------------------------------------ |
-| Type       | [Metal](../../type/metal)  |
-| Source      | [Smelter](../../objects/smelter) |
-| Weight | 8
-| Max Stack | 30
-| Teleportable | X
-| To unlock | ? |
+| Type | [Material](../../types/material)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 8 |
+| Max Stack | 30 |
+| Teleportable | 🗙
+| Movespeed Speed | 0%
+
 
 -------------
 
-### Crafting
-
-
-
-| Materials Needed |
-| - |
-| [![Tin Ore](/assets/tin_ore.png)](../../items/tin_ore) [Tin ore](../../items/tin_ore) x 1 |
-| [![Coal](/assets/coal.png)](../../items/coal) [Coal](../../items/coal) x 2 |
-
-
-#### Used in:
-
-* [Bronze](../../items/bronze)
-* [Cauldron](../../objects/cauldron)
+### Upgrades
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

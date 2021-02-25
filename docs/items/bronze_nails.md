@@ -20,39 +20,16 @@ Bronze nails is an item found in Valheim.
 |        | Bronze Nails              |
 | ----------- | ------------------------------------ |
 | Type | [Material](../../types/material)
-| Usage | Crafting,<br>Building<br>
-| Source | [Forge](../../objects/forge)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 0.5 |
 | Max Stack | 100 |
 | Teleportable | ✓
-| To Unlock | • find [Bronze](../../items/bronze)<br>
+| Movespeed Speed | 0%
 
 
 -------------
 
-### Crafting
-
-<small>Crafts 20</small>
-
-| Materials needed |
-| - |
-| <pre>[![Bronze](/assets/bronze.png)](../../items/bronze) [Bronze](../bronze) x 1</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-
-#### Used in:
-
-##### Building
-
-* [Cart](../cart)
-* [Item Stand (horizontal)](../item_stand_(horizontal))
-* [Item Stand (vertical)](../item_stand_(vertical))
-* [Karve](../karve)
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

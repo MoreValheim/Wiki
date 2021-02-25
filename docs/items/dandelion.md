@@ -20,28 +20,16 @@ Dandelion is an item found in Valheim.
 |        | Dandelion              |
 | ----------- | ------------------------------------ |
 | Type | [Material](../../types/material)
-| Usage | Crafting,<br>Building<br>
-| Source | Meadows
-| Weight | 0.1 |
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 0.100000001490116 |
 | Max Stack | 50 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-
-#### Used in:
-
-##### Crafting
-
-* [Mead Base: Medium Healing](../mead_base:_medium_healing)
-* [Mead Base: Minor Healing](../mead_base:_minor_healing)
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

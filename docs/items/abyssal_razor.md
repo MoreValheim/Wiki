@@ -19,34 +19,21 @@ Abyssal razor is an item found in Valheim.
 
 |        | Abyssal Razor              |
 | ----------- | ------------------------------------ |
-| Type | [Knife](../../types/knife)
-| Usage | Combat<br>
-| Source | [Workbench](../../objects/workbench)
-| Weight | 0.3 |
+| Type | [Onehandedweapon](../../types/onehandedweapon)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 0.300000011920929 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| To Unlock | • find [Chitin](../../items/chitin)<br>
-| Movespeed Speed | -5%
+| Movespeed Speed | 0%
 | Wielding | One-handed
 
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Fine wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine wood](../fine_wood) x 4</pre> |
-| <pre>[![Chitin](/assets/chitin.png)](../../items/chitin) [Chitin](../chitin) x 20</pre> |
-| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather scraps](../leather_scraps) x 2</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Pierce | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus | CL | RL |
-| - | - | - | - | - | - | - | - | - | - | - |
-| 1 | <pre>[![Fine Wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine Wood](../../items/fine_wood) <small>x</small> 4</pre><pre>[![Chitin](/assets/chitin.png)](../../items/chitin) [Chitin](../../items/chitin) <small>x</small> 20</pre><pre>[![Leather Scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather Scraps](../../items/leather_scraps) <small>x</small> 2</pre> | 100 | 12 | 10 | 10 | 10 | 10 | 4 |4 | ? |
-| 2 | <pre>[![Chitin](/assets/chitin.png)](../../items/chitin) [Chitin](../../items/chitin) <small>x</small> 10</pre> | 150 | 13 | 10 | 10 | 10 | 15 | 4 |4 | ? |
-| 3 | <pre>[![Chitin](/assets/chitin.png)](../../items/chitin) [Chitin](../../items/chitin) <small>x</small> 20</pre> | 200 | 14 | 10 | 10 | 10 | 20 | 4 |4 | ? |
-| 4 | <pre>[![Chitin](/assets/chitin.png)](../../items/chitin) [Chitin](../../items/chitin) <small>x</small> 30</pre> | 250 | 15 | 10 | 10 | 10 | 25 | 4 |5 | ? |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
+| - | - | - | - | - | - | - 
+1 | 100 | FALSE | 10 | 10 | 10 | 10 | 4 | 
+ | 2 | 150 |  |  |  | 10 | 15 |  | 
+ | 3 | 200 |  |  |  | 10 | 20 |  | 

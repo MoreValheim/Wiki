@@ -20,32 +20,18 @@ Black metal shield is an item found in Valheim.
 |        | Black Metal Shield              |
 | ----------- | ------------------------------------ |
 | Type | [Shield](../../types/shield)
-| Usage | Combat<br>
-| Source | [Forge](../../objects/forge)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 5 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| To Unlock | • find [Black Metal](../../items/black_metal)<br>• find [Chain](../../items/chain)<br>
-| Movespeed Speed | -5%
-| Wielding | One-handed
+| Movespeed Speed | -5.00000007450581%
 
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Fine wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine wood](../fine_wood) x 10</pre> |
-| <pre>[![Black metal](/assets/black_metal.png)](../../items/black_metal) [Black metal](../black_metal) x 8</pre> |
-| <pre>[![Chain](/assets/chain.png)](../../items/chain) [Chain](../chain) x 5</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Fine Wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine Wood](../../items/fine_wood) <small>x</small> 10</pre><pre>[![Black Metal](/assets/black_metal.png)](../../items/black_metal) [Black Metal](../../items/black_metal) <small>x</small> 8</pre><pre>[![Chain](/assets/chain.png)](../../items/chain) [Chain](../../items/chain) <small>x</small> 5</pre> | undefined | 90 | 50 | 3 | 3 |
-| 2 | <pre>[![Fine Wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine Wood](../../items/fine_wood) <small>x</small> 10</pre><pre>[![Black Metal](/assets/black_metal.png)](../../items/black_metal) [Black Metal](../../items/black_metal) <small>x</small> 4</pre><pre>[![Chain](/assets/chain.png)](../../items/chain) [Chain](../../items/chain) <small>x</small> 2</pre> | undefined | 95 | 55 | 4 | ? |
-| 3 | <pre>[![Fine Wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine Wood](../../items/fine_wood) <small>x</small> 20</pre><pre>[![Black Metal](/assets/black_metal.png)](../../items/black_metal) [Black Metal](../../items/black_metal) <small>x</small> 8</pre><pre>[![Chain](/assets/chain.png)](../../items/chain) [Chain](../../items/chain) <small>x</small> 4</pre> | undefined | 100 | 60 | 5 | ? |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
+| - | - | - | - | - | - | - 
+1 | 100 | FALSE | 4 | 50 | 90 | 50 | 1.5 | 
+ | 2 | 150 |  |  |  | 95 | 55 |  | 

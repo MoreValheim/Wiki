@@ -19,30 +19,17 @@ Fish wraps is an item found in Valheim.
 
 |        | Fish Wraps              |
 | ----------- | ------------------------------------ |
-| Type | [Food](../../types/food)
-| Usage | Crafting,<br>Building<br>
-| Source | [Cauldron](../../items/cauldron)
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
-| To Unlock | • find [?](../../items/?)<br>
+| Movespeed Speed | 0%
 | Effects | ❤️ Max Health 60<br>⚡ Max Stamina 90<br>🕒 Duration 2400 second(s) <br>💕 Healing 4hp/tick <br>
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Cooked fish](/assets/cooked_fish.png)](../../items/cooked_fish) [Cooked fish](../cooked_fish) x 2</pre> |
-| <pre>[![Barley flour](/assets/barley_flour.png)](../../items/barley_flour) [Barley flour](../barley_flour) x 4</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

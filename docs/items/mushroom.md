@@ -19,22 +19,17 @@ Mushroom is an item found in Valheim.
 
 |        | Mushroom              |
 | ----------- | ------------------------------------ |
-| Type | [Food](../../types/food)
-| Usage | Consumable<br>
-| Source | Meadows, black forest
-| Weight | 0.1 |
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 0.100000001490116 |
 | Max Stack | 50 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 | Effects | ❤️ Max Health 15<br>⚡ Max Stamina 20<br>🕒 Duration 600 second(s) <br>💕 Healing 1hp/tick <br>
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

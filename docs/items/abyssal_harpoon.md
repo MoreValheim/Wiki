@@ -19,34 +19,18 @@ Abyssal harpoon is an item found in Valheim.
 
 |        | Abyssal Harpoon              |
 | ----------- | ------------------------------------ |
-| Type | [Spear](../../types/spear)
-| Usage | Combat,<br>Wrangling<br>
-| Source | [Workbench](../../objects/workbench)
+| Type | [Onehandedweapon](../../types/onehandedweapon)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| To Unlock | • find [Chitin](../../items/chitin)<br>
-| Movespeed Speed | -5%
+| Movespeed Speed | -5.00000007450581%
 | Wielding | One-handed
 
 
 -------------
 
-### Crafting
-
-| Materials needed |
-| - |
-| <pre>[![Fine wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine wood](../fine_wood) x 8</pre> |
-| <pre>[![Chitin](/assets/chitin.png)](../../items/chitin) [Chitin](../chitin) x 30</pre> |
-| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather scraps](../leather_scraps) x 3</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Pierce | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus | CL | RL |
-| - | - | - | - | - | - | - | - | - | - | - |
-| 1 | <pre>[![Fine Wood](/assets/fine_wood.png)](../../items/fine_wood) [Fine Wood](../../items/fine_wood) <small>x</small> 8</pre><pre>[![Chitin](/assets/chitin.png)](../../items/chitin) [Chitin](../../items/chitin) <small>x</small> 30</pre><pre>[![Leather Scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather Scraps](../../items/leather_scraps) <small>x</small> 3</pre> | 50 | 10 | 1 | 20 | 10 | 0 | 2 |4 | ? |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | ? | ? | ? | ? | ? | ? | ? |? | ? |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | ? | ? | ? | ? | ? | ? | ? |? | ? |
-| 4 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | ? | ? | ? | ? | ? | ? | ? |? | ? |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

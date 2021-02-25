@@ -11,7 +11,7 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/chitin.png" class="tb" /><figcaption><small>?</small></figcaption></figure>
+<figure><img src="/assets/chitin.png" class="tb" /><figcaption><small>A shard of crustacean shell.</small></figcaption></figure>
 
 -------------
 
@@ -20,28 +20,16 @@ Chitin is an item found in Valheim.
 |        | Chitin              |
 | ----------- | ------------------------------------ |
 | Type | [Material](../../types/material)
-| Usage | Crafting,<br>Building<br>
-| Source | Abyssal barnacle on [Leviathan](../../creatures/leviathan) |
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 50 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-
-#### Used in:
-
-##### Crafting
-
-* [Abyssal Razor](../abyssal_razor)
-* [Abyssal Harpoon](../abyssal_harpoon)
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

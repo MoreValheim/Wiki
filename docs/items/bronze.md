@@ -1,56 +1,35 @@
-# Bronze
+<meta property="og:title" content="Bronze - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/bronze.png" /><meta property="og:description" content="Bronze is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
+#Bronze
 -------------
+<style>img {width:20px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
-<style>
-img {width:30px;}
-.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}
-</style>
+<style>.md-typeset table:not([class]) th:not([align]) {min-width:unset!important;}</style>
+<style>td{padding:0em 0.3em!important;text-align:center!important;border-left:.05rem solid var(--md-default-fg-color--lightest)}</style>
 
-<figure>
-<img src="/assets/bronze.png" class="tb" />
-<figcaption><small>A strong alloy of <a href="../copper">copper</a> and <a href="../tin">tin</a>.</small></figcaption>
-</figure>
+<style>th{padding:0.1em 0.3em!important;text-align:center!important;font-weight:bold}</style>
+
+<style>pre{text-align:right!important}</style>
+<style>table tr td:first-child {border-left: 0;};</style>
+
+<figure><img src="/assets/bronze.png" class="tb" /><figcaption><small>A strong alloy of copper and tin.</small></figcaption></figure>
 
 -------------
 
 Bronze is an item found in Valheim.
 
-This item can not be carried through a [Portal](../../objects/portal).
-
-|        | Bronze                  |
+|        | Bronze              |
 | ----------- | ------------------------------------ |
-| Type       | [Metal](../../type/metal)  |
-| Source      | [Forge](../../objects/forge) |
-| Weight | 12
-| Max Stack | 30
-| Teleportable | X
-| To unlock | ? |
+| Type | [Material](../../types/material)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 12 |
+| Max Stack | 30 |
+| Teleportable | 🗙
+| Movespeed Speed | 0%
+
 
 -------------
 
-### Crafting
-
-
-
-| Materials Needed |
-| - |
-| [![Copper](/assets/copper.png)](../../items/copper) x 2 |
-| [![Tin](/assets/tin.png)](../../items/tin) x 1 |
-
-
-#### Used in:
-
-* [Bronze Atgeir](../bronze_atgeir)
-* [Bronze Axe](../bronze_axe)
-* [Bronze Buckler](../bronze_buckler)
-* [Bronze Helmet](../bronze_helmet)
-* [Bronze Mace](../bronze_mace)
-* [Bronze Nails](../bronze_nails)
-* [Bronze Pickaxe](../bronze_pickaxe)
-* [Bronze Plate Cuirass](../bronze_plate_cuirass)
-* [Bronze Plate Leggings](../bronze_leggings)
-* [Bronze Spear](../bronze_spear)
-* [Bronze Sword](../bronze_sword)
-* [Bronzehead Arrow](../bronze_arrow)
-* [Cultivator](../bronze_cultivator)
-* [Horned Bronze Helmet](../horned_bronze_helmet)
+### Upgrades
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

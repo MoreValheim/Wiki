@@ -11,7 +11,7 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/iron_axe.png" class="tb" /><figcaption><small>Sharp and strong, a woodcutter's friend.</small></figcaption></figure>
+<figure><img src="/assets/iron_axe.png" class="tb" /><figcaption><small>~Sharp and strong, a woodcutter's friend.</small></figcaption></figure>
 
 -------------
 
@@ -19,26 +19,21 @@ Iron axe is an item found in Valheim.
 
 |        | Iron Axe              |
 | ----------- | ------------------------------------ |
-| Type | [Axe](../../types/axe)
-| Usage | Chopping<br>Wood<br>
-| Source | [Forge](../../objects/forge)
+| Type | [Onehandedweapon](../../types/onehandedweapon)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| To Unlock | • find [Iron](../../items/iron)<br>
-| Movespeed Speed | -5%
+| Movespeed Speed | -5.00000007450581%
 | Wielding | One-handed
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Pierce | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus | CL | RL |
-| - | - | - | - | - | - | - | - | - | - | - |
-| 1 | <pre>[![Wood](/assets/wood.png)](../../items/wood) [Wood](../../items/wood) <small>x</small> 4</pre><pre>[![Iron](/assets/iron.png)](../../items/iron) [Iron](../../items/iron) <small>x</small> 20</pre><pre>[![Leather Scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather Scraps](../../items/leather_scraps) <small>x</small> 2</pre> | FALSE | 0 | 3 | 50 | 10 | 20 | 2 |2 | ? |
-| 2 | <pre>[![Iron](/assets/iron.png)](../../items/iron) [Iron](../../items/iron) <small>x</small> 10</pre><pre>[![Leather Scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather Scraps](../../items/leather_scraps) <small>x</small> 1</pre> | FALSE | 0 | ? | ? | ? | 25 | ? |3 | ? |
-| 3 | <pre>[![Iron](/assets/iron.png)](../../items/iron) [Iron](../../items/iron) <small>x</small> 20</pre><pre>[![Leather Scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather Scraps](../../items/leather_scraps) <small>x</small> 2</pre> | FALSE | 0 | ? | ? | ? | 30 | ? |4 | ? |
-| 4 | <pre>[![Iron](/assets/iron.png)](../../items/iron) [Iron](../../items/iron) <small>x</small> 30</pre><pre>[![Leather Scraps](/assets/leather_scraps.png)](../../items/leather_scraps) [Leather Scraps](../../items/leather_scraps) <small>x</small> 3</pre> | FALSE | 0 | ? | ? | ? | 35 | ? |5 | ? |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
+| - | - | - | - | - | - | - 
+1 | 100 | FALSE | 3 | 50 | 10 | 20 | 2 | 
+ | 2 | 150 |  |  |  | 10 | 25 |  | 
+ | 3 | 200 |  |  |  | 10 | 30 |  | 

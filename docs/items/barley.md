@@ -19,25 +19,17 @@ Barley is an item found in Valheim.
 
 |        | Barley              |
 | ----------- | ------------------------------------ |
-| Type | [Seed](../../types/seed)
-| Usage | Farming,<br>Cooking<br>
-| Source | Fuling village in [Plains](../../biomes/plains) |
-| Weight | 0.2 |
+| Type | [Material](../../types/material)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 0.200000002980232 |
 | Max Stack | 100 |
 | Teleportable | ✓
-| To Unlock | • find [?](../../items/?)<br>
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-
-#### Used in:
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

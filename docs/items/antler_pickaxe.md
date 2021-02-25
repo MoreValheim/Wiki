@@ -19,25 +19,18 @@ Antler pickaxe is an item found in Valheim.
 
 |        | Antler Pickaxe              |
 | ----------- | ------------------------------------ |
-| Type | [Pickaxe](../../types/pickaxe)
-| Usage | Mining,<br>Attacking<br>
-| Source | [Workbench](../../objects/workbench)
+| Type | [Twohandedweapon](../../types/twohandedweapon)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| To Unlock | • find [Hard Antler](../../items/hard_antler)<br>
-| Movespeed Speed | -5%
+| Movespeed Speed | -5.00000007450581%
+| Wielding | Two-handed
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Pierce | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus | CL | RL |
-| - | - | - | - | - | - | - | - | - | - | - |
-| 1 | <pre>[![Wood](/assets/wood.png)](../../items/wood) [Wood](../../items/wood) <small>x</small> 10</pre><pre>[![Hard Antler](/assets/hard_antler.png)](../../items/hard_antler) [Hard Antler](../../items/hard_antler) <small>x</small> 1</pre> | FALSE | 18 | 3 | 50 | 10 | 20 | 2 |? | ? |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | FALSE | ? | ? | ? | ? | ? | ? |? | ? |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | FALSE | ? | ? | ? | ? | ? | ? |? | ? |
-| 4 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | FALSE | ? | ? | ? | ? | ? | ? |? | ? |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
+| - | - | - | - | - | - | - 

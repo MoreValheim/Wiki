@@ -1,37 +1,35 @@
-# Queens Jam
+<meta property="og:title" content="Queens Jam - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/queens_jam.png" /><meta property="og:description" content="Queens Jam is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
+#Queens Jam
+-------------
+<style>img {width:20px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
+
+<style>.md-typeset table:not([class]) th:not([align]) {min-width:unset!important;}</style>
+<style>td{padding:0em 0.3em!important;text-align:center!important;border-left:.05rem solid var(--md-default-fg-color--lightest)}</style>
+
+<style>th{padding:0.1em 0.3em!important;text-align:center!important;font-weight:bold}</style>
+
+<style>pre{text-align:right!important}</style>
+<style>table tr td:first-child {border-left: 0;};</style>
+
+<figure><img src="/assets/queens_jam.png" class="tb" /><figcaption><small>That classic tasty blend of raspberries and blueberries.</small></figcaption></figure>
+
 -------------
 
-<style>
-img {width:30px;}
-.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}
-</style>
+Queens jam is an item found in Valheim.
 
-<figure>
-<img src="/assets/queens_jam.png" class="tb" />
-<figcaption><small>That classic tasty blend of <a href="../../items/raspberries">raspberries</a> and <a href="../../items/blueberries">blueberries</a>.</small></figcaption>
-</figure>
-
--------------
-
-Raspberries is an item found in Valheim.
-
-|        | Queens jam              |
+|        | Queens Jam              |
 | ----------- | ------------------------------------ |
-| Type       | [Food](../../type/food)  |
-| Source      | [Cauldron](../../objects/cauldron) |
-| Weight | 1
-| Max Stack | 10
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
+| Weight | 1 |
+| Max Stack | 10 |
 | Teleportable | ✓
-| To unlock | - obtain <a href="../../items/blueberries">blueberries</a> |
-| Effects | ❤️ Max Health 30<br>⚡ Max Stamina 40<br>🕒 Duration 1200 seconds<br>💕 Healing 2hp/tick
+| Movespeed Speed | 0%
+| Effects | ❤️ Max Health 30<br>⚡ Max Stamina 40<br>🕒 Duration 1200 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
 
-### Crafting
-
-| Materials Needed |
-| - |
-| [![Raspberries](/assets/raspberries.png)](../../items/raspberries) [Raspberries](../../items/raspberries) x 8 |
-| [![Blueberries](/assets/blueberries.png)](../../items/blueberries) [Blueberries](../../items/blueberries) x 8 |
-
-\*Crafts 4
+### Upgrades
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

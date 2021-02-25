@@ -19,33 +19,17 @@ Sausages is an item found in Valheim.
 
 |        | Sausages              |
 | ----------- | ------------------------------------ |
-| Type | [Food](../../types/food)
-| Usage | Consumable<br>
-| Source | [Cauldron](../../items/cauldron)
+| Type | [Consumable](../../types/consumable)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 0.5 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| To Unlock | • find [Thistle](../../items/thistle)<br>• find [Entrails](../../items/entrails)<br>
+| Movespeed Speed | 0%
 | Effects | ❤️ Max Health 60<br>⚡ Max Stamina 40<br>🕒 Duration 1600 second(s) <br>💕 Healing 3hp/tick <br>
 
 -------------
 
-### Crafting
-
-<small>Crafts 4</small>
-
-| Materials needed |
-| - |
-| <pre>[![Entrails](/assets/entrails.png)](../../items/entrails) [Entrails](../entrails) x 2</pre> |
-| <pre>[![Raw meat](/assets/raw_meat.png)](../../items/raw_meat) [Raw meat](../raw_meat) x 1</pre> |
-| <pre>[![Thistle](/assets/thistle.png)](../../items/thistle) [Thistle](../thistle) x 4</pre> |
-
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 

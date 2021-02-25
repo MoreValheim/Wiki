@@ -11,7 +11,7 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/iron_helmet.png" class="tb" /><figcaption><small>?</small></figcaption></figure>
+<figure><img src="/assets/iron_helmet.png" class="tb" /><figcaption><small>A helm of polished iron, fit for a hero.</small></figcaption></figure>
 
 -------------
 
@@ -19,25 +19,20 @@ Iron helmet is an item found in Valheim.
 
 |        | Iron Helmet              |
 | ----------- | ------------------------------------ |
-| Type | [Head](../../types/head)
-| Usage | Protection<br>
-| Source | [Forge](../../objects/forge)
+| Type | [Helmet](../../types/helmet)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| To Unlock | • find [Iron](../../items/iron)<br>
-| Movespeed Speed | ?%
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Armor | Materials | Weight | Durability | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | 14 | <pre>[![Iron](/assets/iron.png)](../../items/iron) [Iron](../../items/iron) <small>x</small> 20</pre><pre>[![Deer Hide](/assets/deer_hide.png)](../../items/deer_hide) [Deer Hide](../../items/deer_hide) <small>x</small> 2</pre> | ? | 1000 | 2 | 2 |
-| 2 | 16 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | ? | 1200 | ? | ? |
-| 3 | 18 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | ? | 1400 | ? | ? |
-| 4 | 20 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | ? | 1600 | ? | ? |
+| Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
+| - | - | - | - | - | - | - | - 
+1 | 100 | 14 | 4 | 30 | 10 | 0 | 1.5 | 
+ | 2 | 300 | 16 |  |  | 10 | 0 |  | 
+ | 3 | 500 | 18 |  |  | 10 | 0 |  | 

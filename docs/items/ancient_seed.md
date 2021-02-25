@@ -11,7 +11,7 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/ancient_seed.png" class="tb" /><figcaption><small>Held against your ear, you hear tiny whispering within...</small></figcaption></figure>
+<figure><img src="/assets/ancient_seed.png" class="tb" /><figcaption><small>Held against your ear, you hear tiny whisperings within...</small></figcaption></figure>
 
 -------------
 
@@ -19,22 +19,17 @@ Ancient seed is an item found in Valheim.
 
 |        | Ancient Seed              |
 | ----------- | ------------------------------------ |
-| Type | [Misc](../../types/misc)
-| Usage | Summoning<br>
-| Source | [Greydwarf Brute](../../creatures/greydwarf_brute), [Greydwarf Shaman](../../creatures/greydwarf_shaman), [Greydwarf Spawners](../../objects/greydwarf_spawners), [Chests](../../objects/chests)
+| Type | [Material](../../types/material)
+| Usage | FALSE<br>
+| Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 50 |
 | Teleportable | ✓
+| Movespeed Speed | 0%
 
 
 -------------
 
 ### Upgrades
-
-<small>CL - Crafting level</small><br><small>RL - Repair level</small>
-
-| Q | Materials | Durability | Block Power | Parry Force | CL | RL |
-| - | - | - | - | - | - | - |
-| 1 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 2 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
-| 3 | <pre>[![Undefined](/assets/undefined.png)](../../items/undefined) [Undefined](../../items/undefined) <small>x</small> undefined</pre> | undefined | FALSE | FALSE | FALSE | FALSE |
+| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
+| - | - | - | - | - | - 
