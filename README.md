@@ -6,4 +6,4 @@
 
 ---
 
- > Credit
+  Item data is thanks to the [Valheim Modding Wiki team](https://github.com/Valheim-Modding/Wiki/wiki).
