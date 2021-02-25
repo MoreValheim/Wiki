@@ -34,12 +34,76 @@
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
 | - | - | - | - | - | - | - 
-1 | 100 | FALSE | 4 | 40 | 20 | 20 | 1.5 | 
- | 2 | 150 |  |  |  | 25 | 20 |  | 
+1 | 100 | 4 | 40 | 20 | 20 | 1.5 | 
+ | 2 | 150 |  |  | 25 | 20 |  | 
 
 
 ### Value table
-| Name | Value
-| - | - |
-| <div style="text-align:right">name</div> | <div style="text-align:left">ShieldWood</div> | 
-| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 
+|c1|c2|
+|----|----|
+|name|ShieldWood|
+|m_quality|1|
+|m_variant|0|
+|m_durability|100|
+|m_name|~$item_shield_wood|
+|m_name_EN|~Wood shield|
+|m_description|$item_shield_wood_description|
+|m_description_EN|A simple wooden shield.|
+|m_aiAttackInterval|2|
+|m_aiAttackMaxAngle|5|
+|m_aiAttackRange|2|
+|m_aiAttackRangeMin|0|
+|m_aiPrioritized|false|
+|m_aiTargetType|Enemy|
+|m_aiWhenFlying|true|
+|m_aiWhenSwiming|true|
+|m_aiWhenWalking|true|
+|m_animationState|Shield|
+|m_ammoType||
+|m_armor|100|
+|m_attackForce|40|
+|m_backstabBonus|4|
+|m_blockable|true|
+|m_blockPower|20|
+|m_blockPowerPerLevel|5|
+|m_canBeReparied|true|
+|m_deflectionForce|20|
+|m_deflectionForcePerLevel|0|
+|m_destroyBroken|false|
+|m_dlc||
+|m_dodgeable|true|
+|m_durabilityDrain|0|
+|m_durabilityPerLevel|50|
+|m_equipDuration|0.200000002980232|
+|m_food|0|
+|m_foodBurnTime|0|
+|m_foodColor|rgba(255, 255, 255, 255)|
+|m_foodRegen|0|
+|m_foodStamina|0|
+|m_helmetHideHair|true|
+|m_holdAnimationState||
+|m_holdDurationMin|0|
+|m_holdStaminaDrain|0|
+|m_maxDurability|200|
+|m_maxQuality|3|
+|m_maxStackSize|1|
+|m_movementModifier|-0.0500000007450581|
+|m_questItem|false|
+|m_setName||
+|m_setSize|0|
+|m_teleportable|true|
+|m_timedBlockBonus|1.5|
+|m_toolTier|0|
+|m_useDurability|true|
+|m_useDurabilityDrain|1|
+|m_value|0|
+|m_variants|4|
+|m_weight|4|
+|m_damageModifiers|[  ]|
+|m_trophyPos|{"x":0,"y":0}|
+|m_skillType|Blocking|
+|m_itemType|Shield|
+|m_attackStatusEffect|null|
+|m_consumeStatusEffect|null|
+|m_equipStatusEffect|null|
+|m_setStatusEffect|null|

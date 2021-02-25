@@ -31,14 +31,85 @@ Club is an item found in Valheim.
 
 -------------
 
-### Upgrades
-| Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
-| - | - | - | - | - | - 
-
-
 ### Value table
-| Name | Value
-| - | - |
-| <div style="text-align:right">name</div> | <div style="text-align:left">Club</div> | 
-| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | | lign:left">[object Object]</div> | ign:left">Club</div> | 
-| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 
+|c1|c2|
+|----|----|
+|name|Club|
+|m_quality|1|
+|m_variant|0|
+|m_durability|100|
+|m_name|$item_club|
+|m_name_EN|Club|
+|m_description|$item_club_description|
+|m_description_EN|A crude but useful weapon.|
+|m_aiAttackInterval|2|
+|m_aiAttackMaxAngle|5|
+|m_aiAttackRange|2|
+|m_aiAttackRangeMin|0|
+|m_aiPrioritized|false|
+|m_aiTargetType|Enemy|
+|m_aiWhenFlying|true|
+|m_aiWhenSwiming|true|
+|m_aiWhenWalking|true|
+|m_animationState|OneHanded|
+|m_ammoType||
+|m_armor|20|
+|m_attackForce|25|
+|m_backstabBonus|3|
+|m_blockable|true|
+|m_blockPower|10|
+|m_blockPowerPerLevel|0|
+|m_canBeReparied|true|
+|m_deflectionForce|20|
+|m_deflectionForcePerLevel|5|
+|m_destroyBroken|false|
+|m_dlc||
+|m_dodgeable|true|
+|m_durabilityDrain|0|
+|m_durabilityPerLevel|50|
+|m_equipDuration|0.200000002980232|
+|m_food|0|
+|m_foodBurnTime|0|
+|m_foodColor|rgba(255, 255, 255, 255)|
+|m_foodRegen|0|
+|m_foodStamina|0|
+|m_helmetHideHair|true|
+|m_holdAnimationState||
+|m_holdDurationMin|0|
+|m_holdStaminaDrain|0|
+|m_maxDurability|100|
+|m_maxQuality|4|
+|m_maxStackSize|1|
+|m_movementModifier|-0.0500000007450581|
+|m_questItem|false|
+|m_setName||
+|m_setSize|0|
+|m_teleportable|true|
+|m_timedBlockBonus|2|
+|m_toolTier|0|
+|m_useDurability|true|
+|m_useDurabilityDrain|1|
+|m_value|0|
+|m_variants|0|
+|m_weight|2|
+|m_damageModifiers|[  ]|
+|m_trophyPos|{"x":0,"y":0}|
+|m_skillType|Clubs|
+|m_itemType|OneHandedWeapon|
+|m_attackStatusEffect|null|
+|m_consumeStatusEffect|null|
+|m_equipStatusEffect|null|
+|m_setStatusEffect|null|
+|
+ect|null|
+|m_setStatusEffect|null|
+s|0|
+|m_weight|2|
+|m_damageModifiers|[  ]|
+|m_trophyPos|{"x":0,"y":0}|
+|m_skillType|Clubs|
+|m_itemType|OneHandedWeapon|
+|m_attackStatusEffect|null|
+|m_consumeStatusEffect|null|
+|m_equipStatusEffect|null|
+|m_setStatusEffect|null|

@@ -34,13 +34,77 @@ Troll hide cape is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
 | - | - | - | - | - | - | - 
-1 | 100 | FALSE | 4 | 10 | 10 | 0 | 1.5 | 
- | 2 | 150 |  |  |  | 10 | 0 |  | 
- | 3 | 200 |  |  |  | 10 | 0 |  | 
+1 | 100 | 4 | 10 | 10 | 0 | 1.5 | 
+ | 2 | 150 |  |  | 10 | 0 |  | 
+ | 3 | 200 |  |  | 10 | 0 |  | 
 
 
 ### Value table
-| Name | Value
-| - | - |
-| <div style="text-align:right">name</div> | <div style="text-align:left">CapeTrollHide</div> | 
-| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 
+|c1|c2|
+|----|----|
+|name|CapeTrollHide|
+|m_quality|1|
+|m_variant|0|
+|m_durability|100|
+|m_name|$item_cape_trollhide|
+|m_name_EN|Troll hide cape|
+|m_description|$item_cape_trollhide_description|
+|m_description_EN|Trollskin is tough and supple.|
+|m_aiAttackInterval|2|
+|m_aiAttackMaxAngle|5|
+|m_aiAttackRange|2|
+|m_aiAttackRangeMin|0|
+|m_aiPrioritized|false|
+|m_aiTargetType|Enemy|
+|m_aiWhenFlying|true|
+|m_aiWhenSwiming|true|
+|m_aiWhenWalking|true|
+|m_animationState|OneHanded|
+|m_ammoType||
+|m_armor|1|
+|m_attackForce|10|
+|m_backstabBonus|4|
+|m_blockable|false|
+|m_blockPower|10|
+|m_blockPowerPerLevel|0|
+|m_canBeReparied|true|
+|m_deflectionForce|0|
+|m_deflectionForcePerLevel|0|
+|m_destroyBroken|false|
+|m_dlc||
+|m_dodgeable|false|
+|m_durabilityDrain|0|
+|m_durabilityPerLevel|50|
+|m_equipDuration|2|
+|m_food|0|
+|m_foodBurnTime|0|
+|m_foodColor|rgba(255, 255, 255, 255)|
+|m_foodRegen|0|
+|m_foodStamina|0|
+|m_helmetHideHair|true|
+|m_holdAnimationState||
+|m_holdDurationMin|0|
+|m_holdStaminaDrain|0|
+|m_maxDurability|500|
+|m_maxQuality|4|
+|m_maxStackSize|1|
+|m_movementModifier|0|
+|m_questItem|false|
+|m_setName|troll|
+|m_setSize|4|
+|m_teleportable|true|
+|m_timedBlockBonus|1.5|
+|m_toolTier|0|
+|m_useDurability|true|
+|m_useDurabilityDrain|1|
+|m_value|0|
+|m_variants|0|
+|m_weight|4|
+|m_damageModifiers|[  ]|
+|m_trophyPos|{"x":0,"y":0}|
+|m_skillType|Swords|
+|m_itemType|Shoulder|
+|m_attackStatusEffect|null|
+|m_consumeStatusEffect|null|
+|m_equipStatusEffect|null|
+|m_setStatusEffect|{"m_name":"$se_trollseteffect_name","m_name_EN":"Sneaky","m_category":"","m_flashIcon":false,"m_cooldownIcon":false,"m_tooltip":"$se_trollseteffect_tooltip","m_tooltip_EN":"Makes you more sneaky.","m_attributes":"None","m_startMessage":"","m_startMessage_EN":"","m_startMessageType":"TopLeft","m_stopMessage":"","m_stopMessage_EN":"","m_stopMessageType":"TopLeft","m_repeatMessage":"","m_repeatMessage_EN":"","m_repeatMessageType":"TopLeft","m_repeatInterval":0,"m_ttl":0,"m_cooldown":0,"m_activationAnimation":"gpower"}|
