@@ -13,3 +13,6 @@ markdown_extensions:
   - pymdownx.tabbed
   - toc:
       permalink: true
+google_analytics:
+  - UA-263434434
+  - auto
