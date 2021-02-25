@@ -1,6 +1,6 @@
 # Another Valheim Wiki
 
-<meta property="og:title" content="`MoreValheim" /><meta property="og:type" content="website" /><meta property="og:description" content="This wiki uses the game files to generate item pages so all data is 100% accurate." /><meta name="theme-color" content="#546D78">
+<meta property="og:title" content="MoreValheim" /><meta property="og:type" content="website" /><meta property="og:description" content="This wiki uses the game files to generate item pages so all data is 100% accurate." /><meta name="theme-color" content="#546D78">
 
 <style>
 .c2{
