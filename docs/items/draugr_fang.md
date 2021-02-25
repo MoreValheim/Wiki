@@ -19,13 +19,14 @@ Draugr fang is an item found in Valheim.
 
 |        | Draugr Fang              |
 | ----------- | ------------------------------------ |
+| ID |BowDraugrFang
 | Type | [Bow](../../types/bow)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -36,3 +37,10 @@ Draugr fang is an item found in Valheim.
 1 | 100 | FALSE | 3 | 20 | 5 | 0 | 1.5 | 
  | 2 | 150 |  |  |  | 5 | 0 |  | 
  | 3 | 200 |  |  |  | 5 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">BowDraugrFang</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

@@ -19,13 +19,14 @@ Cape of odin is an item found in Valheim.
 
 |        | Cape Of Odin              |
 | ----------- | ------------------------------------ |
+| ID |CapeOdin
 | Type | [Shoulder](../../types/shoulder)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -36,3 +37,10 @@ Cape of odin is an item found in Valheim.
 1 | 100 | FALSE | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 150 |  |  |  | 10 | 0 |  | 
  | 3 | 200 |  |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">CapeOdin</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

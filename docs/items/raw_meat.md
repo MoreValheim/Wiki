@@ -19,13 +19,14 @@ Raw meat is an item found in Valheim.
 
 |        | Raw Meat              |
 | ----------- | ------------------------------------ |
+| ID |RawMeat
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Effects | ❤️ Max Health 20<br>⚡ Max Stamina 20<br>🕒 Duration 600 second(s) <br>💕 Healing 1hp/tick <br>
 
 -------------
@@ -33,3 +34,10 @@ Raw meat is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">RawMeat</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

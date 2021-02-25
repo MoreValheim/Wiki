@@ -19,13 +19,14 @@ Unarmed is an item found in Valheim.
 
 |        | Unarmed              |
 | ----------- | ------------------------------------ |
+| ID |PlayerUnarmed
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 | Wielding | One-handed
 
 
@@ -34,3 +35,10 @@ Unarmed is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">PlayerUnarmed</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

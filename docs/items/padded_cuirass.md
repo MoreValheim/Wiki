@@ -19,13 +19,14 @@ Padded cuirass is an item found in Valheim.
 
 |        | Padded Cuirass              |
 | ----------- | ------------------------------------ |
+| ID |ArmorPaddedCuirass
 | Type | [Chest](../../types/chest)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 10 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -36,3 +37,10 @@ Padded cuirass is an item found in Valheim.
 1 | 100 | 26 | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 300 | 28 |  |  | 10 | 0 |  | 
  | 3 | 500 | 30 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ArmorPaddedCuirass</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

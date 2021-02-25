@@ -19,13 +19,14 @@ Serpent scale shield is an item found in Valheim.
 
 |        | Serpent Scale Shield              |
 | ----------- | ------------------------------------ |
+| ID |ShieldSerpentscale
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 5 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -10.0000001490116%
+| Movespeed Pen. | -10.0000001490116%
 
 
 -------------
@@ -35,3 +36,10 @@ Serpent scale shield is an item found in Valheim.
 | - | - | - | - | - | - | - 
 1 | 250 | FALSE | 4 | 50 | 90 | 50 | 1 | 
  | 2 | 300 |  |  |  | 95 | 55 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ShieldSerpentscale</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

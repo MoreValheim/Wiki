@@ -19,13 +19,14 @@ Porcupine is an item found in Valheim.
 
 |        | Porcupine              |
 | ----------- | ------------------------------------ |
+| ID |MaceNeedle
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 | Wielding | One-handed
 
 
@@ -37,3 +38,10 @@ Porcupine is an item found in Valheim.
 1 | 100 | FALSE | 3 | 90 | 20 | 30 | 2 | 
  | 2 | 150 |  |  |  | 20 | 35 |  | 
  | 3 | 200 |  |  |  | 20 | 40 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">MaceNeedle</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

@@ -19,13 +19,14 @@ Club is an item found in Valheim.
 
 |        | Club              |
 | ----------- | ------------------------------------ |
+| ID |GoblinShaman_Staff_Feathers
 | Type | [Utility](../../types/utility)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -33,10 +34,11 @@ Club is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
- | Parry Bonus
-| - | - | - | - | - | - 
-onus
-| - | - | - | - | - | - | - 
-1 | 100 | FALSE | 3 | 25 | 10 | 20 | 2 | 
- | 2 | 150 |  |  |  | 10 | 25 |  | 
- | 3 | 200 |  |  |  | 10 | 30 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">Club</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | | lign:left">[object Object]</div> | ign:left">Club</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

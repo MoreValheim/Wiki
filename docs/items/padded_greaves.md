@@ -19,13 +19,14 @@ Padded greaves is an item found in Valheim.
 
 |        | Padded Greaves              |
 | ----------- | ------------------------------------ |
+| ID |ArmorPaddedGreaves
 | Type | [Legs](../../types/legs)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 10 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -36,3 +37,10 @@ Padded greaves is an item found in Valheim.
 1 | 100 | 26 | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 300 | 28 |  |  | 10 | 0 |  | 
  | 3 | 500 | 30 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ArmorPaddedGreaves</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

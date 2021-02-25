@@ -19,13 +19,14 @@ Leather helmet is an item found in Valheim.
 
 |        | Leather Helmet              |
 | ----------- | ------------------------------------ |
+| ID |HelmetLeather
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -36,3 +37,10 @@ Leather helmet is an item found in Valheim.
 1 | 100 | 2 | 4 | 30 | 10 | 0 | 1.5 | 
  | 2 | 200 | 4 |  |  | 10 | 0 |  | 
  | 3 | 300 | 6 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">HelmetLeather</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

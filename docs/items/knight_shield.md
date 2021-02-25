@@ -19,13 +19,14 @@ Knight shield is an item found in Valheim.
 
 |        | Knight Shield              |
 | ----------- | ------------------------------------ |
+| ID |ShieldKnight
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -33,3 +34,10 @@ Knight shield is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
 | - | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ShieldKnight</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

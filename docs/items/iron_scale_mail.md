@@ -19,13 +19,14 @@ Iron scale mail is an item found in Valheim.
 
 |        | Iron Scale Mail              |
 | ----------- | ------------------------------------ |
+| ID |ArmorIronChest
 | Type | [Chest](../../types/chest)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 15 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -36,3 +37,10 @@ Iron scale mail is an item found in Valheim.
 1 | 100 | 14 | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 300 | 16 |  |  | 10 | 0 |  | 
  | 3 | 500 | 18 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ArmorIronChest</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

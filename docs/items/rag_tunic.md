@@ -19,13 +19,14 @@ Rag tunic is an item found in Valheim.
 
 |        | Rag Tunic              |
 | ----------- | ------------------------------------ |
+| ID |ArmorRagsChest
 | Type | [Chest](../../types/chest)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -34,3 +35,10 @@ Rag tunic is an item found in Valheim.
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
 | - | - | - | - | - | - | - | - 
 1 | 200 | 1 | 4 | 10 | 10 | 0 | 1.5 | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ArmorRagsChest</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

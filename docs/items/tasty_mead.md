@@ -19,13 +19,14 @@ Tasty mead is an item found in Valheim.
 
 |        | Tasty Mead              |
 | ----------- | ------------------------------------ |
+| ID |MeadTasty
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -33,3 +34,10 @@ Tasty mead is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
 | - | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">MeadTasty</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

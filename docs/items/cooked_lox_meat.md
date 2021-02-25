@@ -19,13 +19,14 @@ Cooked lox meat is an item found in Valheim.
 
 |        | Cooked Lox Meat              |
 | ----------- | ------------------------------------ |
+| ID |CookedLoxMeat
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Effects | ❤️ Max Health 70<br>⚡ Max Stamina 40<br>🕒 Duration 2000 second(s) <br>💕 Healing 3hp/tick <br>
 
 -------------
@@ -33,3 +34,10 @@ Cooked lox meat is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">CookedLoxMeat</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

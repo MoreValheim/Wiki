@@ -19,13 +19,14 @@ Brute taunt is an item found in Valheim.
 
 |        | Brute Taunt              |
 | ----------- | ------------------------------------ |
+| ID |GoblinBrute_Taunt
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Wielding | One-handed
 
 
@@ -40,3 +41,10 @@ Brute taunt is an item found in Valheim.
  | 4 | 250 |  |  |  | 25 | 0 |  | 
  | 5 | 300 |  |  |  | 25 | 0 |  | 
  | 6 | 350 |  |  |  | 25 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">GoblinBrute_Taunt</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

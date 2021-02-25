@@ -19,13 +19,14 @@ Lox cape is an item found in Valheim.
 
 |        | Lox Cape              |
 | ----------- | ------------------------------------ |
+| ID |CapeLox
 | Type | [Shoulder](../../types/shoulder)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -36,3 +37,10 @@ Lox cape is an item found in Valheim.
 1 | 400 | FALSE | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 450 |  |  |  | 10 | 0 |  | 
  | 3 | 500 |  |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">CapeLox</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

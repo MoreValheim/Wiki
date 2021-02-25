@@ -19,13 +19,14 @@ Wolfattack2 is an item found in Valheim.
 
 |        | Wolfattack2              |
 | ----------- | ------------------------------------ |
+| ID |Wolf_Attack2
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Wielding | One-handed
 
 
@@ -34,3 +35,10 @@ Wolfattack2 is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">Wolf_Attack2</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

@@ -11,7 +11,7 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/ironhead_arrow.png" class="tb" /><figcaption><small>~Capped with iron and flighted with dark feathers.</small></figcaption></figure>
+<figure><img src="/assets/ironhead_arrow.png" class="tb" /><figcaption><small>Fire it with a bow.</small></figcaption></figure>
 
 -------------
 
@@ -19,13 +19,14 @@ Ironhead arrow is an item found in Valheim.
 
 |        | Ironhead Arrow              |
 | ----------- | ------------------------------------ |
+| ID |draugr_arrow
 | Type | [Ammo](../../types/ammo)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
-| Weight | 0.100000001490116 |
-| Max Stack | 100 |
+| Weight | 1 |
+| Max Stack | 20 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -33,3 +34,10 @@ Ironhead arrow is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ArrowIron</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | le="text-align:left">[object Object]</div> | 

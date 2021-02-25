@@ -19,13 +19,14 @@ Black metal tower shield is an item found in Valheim.
 
 |        | Black Metal Tower Shield              |
 | ----------- | ------------------------------------ |
+| ID |ShieldBlackmetalTower
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 5 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -20.0000002980232%
+| Movespeed Pen. | -20.0000002980232%
 
 
 -------------
@@ -35,3 +36,10 @@ Black metal tower shield is an item found in Valheim.
 | - | - | - | - | - | - | - 
 1 | 100 | FALSE | 4 | 50 | 105 | 0 | 1 | 
  | 2 | 150 |  |  |  | 110 | 5 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ShieldBlackmetalTower</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

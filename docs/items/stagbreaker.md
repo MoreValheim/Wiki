@@ -19,13 +19,14 @@ Stagbreaker is an item found in Valheim.
 
 |        | Stagbreaker              |
 | ----------- | ------------------------------------ |
+| ID |SledgeStagbreaker
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -20.0000002980232%
+| Movespeed Pen. | -20.0000002980232%
 | Wielding | Two-handed
 
 
@@ -37,3 +38,10 @@ Stagbreaker is an item found in Valheim.
 1 | 100 | FALSE | 2 | 150 | 15 | 50 | 2 | 
  | 2 | 150 |  |  |  | 15 | 60 |  | 
  | 3 | 200 |  |  |  | 15 | 70 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">SledgeStagbreaker</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

@@ -19,13 +19,14 @@ Ooze bomb is an item found in Valheim.
 
 |        | Ooze Bomb              |
 | ----------- | ------------------------------------ |
+| ID |BombOoze
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 0.300000011920929 |
 | Max Stack | 50 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Wielding | One-handed
 
 
@@ -34,3 +35,10 @@ Ooze bomb is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">BombOoze</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

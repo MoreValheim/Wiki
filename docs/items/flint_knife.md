@@ -19,13 +19,14 @@ Flint knife is an item found in Valheim.
 
 |        | Flint Knife              |
 | ----------- | ------------------------------------ |
+| ID |KnifeFlint
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 0.300000011920929 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Wielding | One-handed
 
 
@@ -37,3 +38,10 @@ Flint knife is an item found in Valheim.
 1 | 100 | FALSE | 10 | 10 | 5 | 10 | 4 | 
  | 2 | 150 |  |  |  | 5 | 15 |  | 
  | 3 | 200 |  |  |  | 5 | 20 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">KnifeFlint</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

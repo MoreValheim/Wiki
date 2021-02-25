@@ -19,13 +19,14 @@ Serpent meat is an item found in Valheim.
 
 |        | Serpent Meat              |
 | ----------- | ------------------------------------ |
+| ID |SerpentMeat
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 10 |
 | Max Stack | 50 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -33,3 +34,10 @@ Serpent meat is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">SerpentMeat</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

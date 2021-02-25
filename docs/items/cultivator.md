@@ -19,13 +19,14 @@ Cultivator is an item found in Valheim.
 
 |        | Cultivator              |
 | ----------- | ------------------------------------ |
+| ID |Cultivator
 | Type | [Tool](../../types/tool)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -35,3 +36,10 @@ Cultivator is an item found in Valheim.
 | - | - | - | - | - | - | - 
 1 | 200 | FALSE | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 400 |  |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">Cultivator</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

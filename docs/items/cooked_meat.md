@@ -19,13 +19,14 @@ Cooked meat is an item found in Valheim.
 
 |        | Cooked Meat              |
 | ----------- | ------------------------------------ |
+| ID |CookedMeat
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Effects | ❤️ Max Health 40<br>⚡ Max Stamina 30<br>🕒 Duration 1200 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
@@ -33,3 +34,10 @@ Cooked meat is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">CookedMeat</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

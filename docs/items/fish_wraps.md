@@ -19,13 +19,14 @@ Fish wraps is an item found in Valheim.
 
 |        | Fish Wraps              |
 | ----------- | ------------------------------------ |
+| ID |FishWraps
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Effects | ❤️ Max Health 60<br>⚡ Max Stamina 90<br>🕒 Duration 2400 second(s) <br>💕 Healing 4hp/tick <br>
 
 -------------
@@ -33,3 +34,10 @@ Fish wraps is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">FishWraps</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

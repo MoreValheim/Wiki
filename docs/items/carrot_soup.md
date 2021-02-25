@@ -19,13 +19,14 @@ Carrot soup is an item found in Valheim.
 
 |        | Carrot Soup              |
 | ----------- | ------------------------------------ |
+| ID |CarrotSoup
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Effects | ❤️ Max Health 20<br>⚡ Max Stamina 60<br>🕒 Duration 1500 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
@@ -33,3 +34,10 @@ Carrot soup is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">CarrotSoup</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

@@ -19,13 +19,14 @@ Fuling trophy is an item found in Valheim.
 
 |        | Fuling Trophy              |
 | ----------- | ------------------------------------ |
+| ID |TrophyGoblin
 | Type | [Trophie](../../types/trophie)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -33,3 +34,10 @@ Fuling trophy is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">TrophyGoblin</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

@@ -19,13 +19,14 @@
 
 |        | ~wood Shield              |
 | ----------- | ------------------------------------ |
+| ID |ShieldWood
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -35,3 +36,10 @@
 | - | - | - | - | - | - | - 
 1 | 100 | FALSE | 4 | 40 | 20 | 20 | 1.5 | 
  | 2 | 150 |  |  |  | 25 | 20 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ShieldWood</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

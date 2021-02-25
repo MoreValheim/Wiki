@@ -19,13 +19,14 @@ Padded helmet is an item found in Valheim.
 
 |        | Padded Helmet              |
 | ----------- | ------------------------------------ |
+| ID |HelmetPadded
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -36,3 +37,10 @@ Padded helmet is an item found in Valheim.
 1 | 100 | 26 | 4 | 30 | 10 | 0 | 1.5 | 
  | 2 | 300 | 28 |  |  | 10 | 0 |  | 
  | 3 | 500 | 30 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">HelmetPadded</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

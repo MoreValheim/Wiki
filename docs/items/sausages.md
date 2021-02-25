@@ -19,13 +19,14 @@ Sausages is an item found in Valheim.
 
 |        | Sausages              |
 | ----------- | ------------------------------------ |
+| ID |Sausages
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 0.5 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 | Effects | ❤️ Max Health 60<br>⚡ Max Stamina 40<br>🕒 Duration 1600 second(s) <br>💕 Healing 3hp/tick <br>
 
 -------------
@@ -33,3 +34,10 @@ Sausages is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">Sausages</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

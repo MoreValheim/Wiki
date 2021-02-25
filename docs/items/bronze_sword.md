@@ -19,13 +19,14 @@ Bronze sword is an item found in Valheim.
 
 |        | Bronze Sword              |
 | ----------- | ------------------------------------ |
+| ID |SwordBronze
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 0.800000011920929 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 | Wielding | One-handed
 
 
@@ -37,6 +38,10 @@ Bronze sword is an item found in Valheim.
 1 | 100 | FALSE | 3 | 40 | 10 | 20 | 2 | 
  | 2 | 150 |  |  |  | 10 | 25 |  | 
  | 3 | 200 |  |  |  | 10 | 30 |  | 
- 
- | 5 | 300 |  |  |  | 25 | 0 |  | 
- | 6 | 350 |  |  |  | 25 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">GoblinSword</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

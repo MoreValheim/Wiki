@@ -19,13 +19,14 @@ Iron pickaxe is an item found in Valheim.
 
 |        | Iron Pickaxe              |
 | ----------- | ------------------------------------ |
+| ID |PickaxeIron
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 | Wielding | Two-handed
 
 
@@ -37,3 +38,10 @@ Iron pickaxe is an item found in Valheim.
 1 | 100 | FALSE | 3 | 50 | 10 | 20 | 2 | 
  | 2 | 150 |  |  |  | 10 | 25 |  | 
  | 3 | 200 |  |  |  | 10 | 30 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">PickaxeIron</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

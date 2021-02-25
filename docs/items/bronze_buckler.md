@@ -19,13 +19,14 @@ Bronze buckler is an item found in Valheim.
 
 |        | Bronze Buckler              |
 | ----------- | ------------------------------------ |
+| ID |ShieldBronzeBuckler
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -35,3 +36,10 @@ Bronze buckler is an item found in Valheim.
 | - | - | - | - | - | - | - 
 1 | 100 | FALSE | 4 | 40 | 45 | 30 | 2 | 
  | 2 | 150 |  |  |  | 50 | 30 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ShieldBronzeBuckler</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

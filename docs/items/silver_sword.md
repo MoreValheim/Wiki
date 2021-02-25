@@ -19,13 +19,14 @@ Silver sword is an item found in Valheim.
 
 |        | Silver Sword              |
 | ----------- | ------------------------------------ |
+| ID |SwordSilver
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 | Wielding | One-handed
 
 
@@ -37,3 +38,10 @@ Silver sword is an item found in Valheim.
 1 | 50 | FALSE | 3 | 40 | 10 | 20 | 2 | 
  | 2 | 100 |  |  |  | 10 | 25 |  | 
  | 3 | 150 |  |  |  | 10 | 30 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">SwordSilver</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

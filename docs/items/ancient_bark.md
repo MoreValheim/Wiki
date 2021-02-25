@@ -19,13 +19,14 @@ Ancient bark is an item found in Valheim.
 
 |        | Ancient Bark              |
 | ----------- | ------------------------------------ |
+| ID |ElderBark
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 50 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -33,3 +34,10 @@ Ancient bark is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ElderBark</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

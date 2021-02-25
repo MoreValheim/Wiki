@@ -21,13 +21,14 @@ Bonemass trophy is an item found in Valheim.
 
 |        | Bonemass Trophy              |
 | ----------- | ------------------------------------ |
+| ID |TrophyBonemass
 | Type | [Trophie](../../types/trophie)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 20 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -35,3 +36,10 @@ Bonemass trophy is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">TrophyBonemass</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

@@ -19,13 +19,14 @@ Bronze plate leggings is an item found in Valheim.
 
 |        | Bronze Plate Leggings              |
 | ----------- | ------------------------------------ |
+| ID |ArmorBronzeLegs
 | Type | [Legs](../../types/legs)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 10 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -36,3 +37,10 @@ Bronze plate leggings is an item found in Valheim.
 1 | 100 | 8 | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 300 | 10 |  |  | 10 | 0 |  | 
  | 3 | 500 | 12 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ArmorBronzeLegs</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

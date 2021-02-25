@@ -19,13 +19,14 @@ Pine cone is an item found in Valheim.
 
 |        | Pine Cone              |
 | ----------- | ------------------------------------ |
+| ID |PineCone
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 0.100000001490116 |
 | Max Stack | 100 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -33,3 +34,10 @@ Pine cone is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Bonus
 | - | - | - | - | - | - 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">PineCone</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

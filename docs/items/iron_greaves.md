@@ -19,13 +19,14 @@ Iron greaves is an item found in Valheim.
 
 |        | Iron Greaves              |
 | ----------- | ------------------------------------ |
+| ID |ArmorIronLegs
 | Type | [Legs](../../types/legs)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 15 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 
 
 -------------
@@ -36,3 +37,10 @@ Iron greaves is an item found in Valheim.
 1 | 100 | 14 | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 300 | 16 |  |  | 10 | 0 |  | 
  | 3 | 500 | 18 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">ArmorIronLegs</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

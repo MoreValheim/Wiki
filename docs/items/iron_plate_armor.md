@@ -19,13 +19,14 @@ Iron plate armor is an item found in Valheim.
 
 |        | Iron Plate Armor              |
 | ----------- | ------------------------------------ |
+| ID |GoblinShoulders
 | Type | [Chest](../../types/chest)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -36,4 +37,10 @@ Iron plate armor is an item found in Valheim.
 1 | 100 | FALSE | 4 | 10 | 10 | 0 | 1.5 | 
  | 2 | 150 |  |  |  | 10 | 0 |  | 
  | 3 | 200 |  |  |  | 10 | 0 |  | 
-|  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">GoblinArmband</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | Object]</div> | 

@@ -19,13 +19,14 @@ Iron mace is an item found in Valheim.
 
 |        | Iron Mace              |
 | ----------- | ------------------------------------ |
+| ID |MaceIron
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -5.00000007450581%
+| Movespeed Pen. | -5.00000007450581%
 | Wielding | One-handed
 
 
@@ -37,3 +38,10 @@ Iron mace is an item found in Valheim.
 1 | 100 | FALSE | 3 | 90 | 10 | 30 | 2 | 
  | 2 | 150 |  |  |  | 10 | 35 |  | 
  | 3 | 200 |  |  |  | 10 | 40 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">MaceIron</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

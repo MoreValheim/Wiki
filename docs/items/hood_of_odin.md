@@ -19,13 +19,14 @@ Hood of odin is an item found in Valheim.
 
 |        | Hood Of Odin              |
 | ----------- | ------------------------------------ |
+| ID |HelmetOdin
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | 0%
+| Movespeed Pen. | 0%
 
 
 -------------
@@ -36,3 +37,10 @@ Hood of odin is an item found in Valheim.
 1 | 100 | 1 | 4 | 30 | 10 | 0 | 1.5 | 
  | 2 | 200 | 3 |  |  | 10 | 0 |  | 
  | 3 | 300 | 5 |  |  | 10 | 0 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">HelmetOdin</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 

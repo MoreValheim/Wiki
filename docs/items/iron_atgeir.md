@@ -19,13 +19,14 @@ Iron atgeir is an item found in Valheim.
 
 |        | Iron Atgeir              |
 | ----------- | ------------------------------------ |
+| ID |AtgeirIron
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../items/false)
 | Weight | 2.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
-| Movespeed Speed | -10.0000001490116%
+| Movespeed Pen. | -10.0000001490116%
 | Wielding | Two-handed
 
 
@@ -37,3 +38,10 @@ Iron atgeir is an item found in Valheim.
 1 | 100 | FALSE | 3 | 30 | 10 | 40 | 3 | 
  | 2 | 150 |  |  |  | 10 | 45 |  | 
  | 3 | 200 |  |  |  | 10 | 50 |  | 
+
+
+### Value table
+| Name | Value
+| - | - |
+| <div style="text-align:right">name</div> | <div style="text-align:left">AtgeirIron</div> | 
+| <div style="text-align:right">m_itemData</div> | <div style="text-align:left">[object Object]</div> | 
