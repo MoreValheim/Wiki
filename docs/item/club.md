@@ -101,8 +101,8 @@ Club is an item found in Valheim.
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
 |
-ect|null|
-|m_setStatusEffect|null|
+etStatusEffect|null|
+sEffect|null|
 maxQuality|4|
 |m_maxStackSize|1|
 |m_movementModifier|-0.0500000007450581|

@@ -19,7 +19,7 @@ Shaman attack is an item found in Valheim.
 
 |        | Shaman Attack              |
 | ----------- | ------------------------------------ |
-| ID |Greydwarf_shaman_attack
+| ID |gd_king_shoot
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -101,3 +101,4 @@ Shaman attack is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
+ect|null|

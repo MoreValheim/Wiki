@@ -19,7 +19,7 @@ Brute sword is an item found in Valheim.
 
 |        | Brute Sword              |
 | ----------- | ------------------------------------ |
-| ID |GoblinBrute_RageAttack
+| ID |GoblinBrute_Attack
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -35,7 +35,7 @@ Brute sword is an item found in Valheim.
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
 | - | - | - | - | - | - | - 
-1 | 100 | 4 | 70 | 25 | 0 | 1.5 | 
+1 | 100 | 4 | 50 | 25 | 0 | 1.5 | 
  | 2 | 150 |  |  | 25 | 0 |  | 
  | 3 | 200 |  |  | 25 | 0 |  | 
  | 4 | 250 |  |  | 25 | 0 |  | 
@@ -112,3 +112,4 @@ Brute sword is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
+ll|

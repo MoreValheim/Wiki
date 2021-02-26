@@ -1,5 +1,5 @@
-<meta property="og:title" content="Fireballattack - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/fireballattack.png" /><meta property="og:description" content="Fireballattack is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
-#Fireballattack
+<meta property="og:title" content="Mead Base: Poison Resistance - MoreValheim" /><meta property="og:type" content="website" /><meta property="og:image" content="/assets/mead_base_poison_resistance.png" /><meta property="og:description" content="Mead Base: Poison Resistance is an item found in Valheim." /><meta name="theme-color" content="#546D78"><meta name="twitter:card" content="summary_large_image">
+#Mead Base: Poison Resistance
 -------------
 <style>img {width:20px;}.tb {width:150px;display: block;margin-left: auto;margin-right: auto;}</style>
 
@@ -11,41 +11,49 @@
 <style>pre{text-align:right!important}</style>
 <style>table tr td:first-child {border-left: 0;};</style>
 
-<figure><img src="/assets/fireballattack.png" class="tb" /><figcaption><small></small></figcaption></figure>
+<figure><img src="/assets/mead_base_poison_resistance.png" class="tb" /><figcaption><small>Needs to be fermented.</small></figcaption></figure>
 
 -------------
 
-Fireballattack is an item found in Valheim.
+Mead base: poison resistance is an item found in Valheim.
 
-|        | Fireballattack              |
+|        | Mead Base: Poison Resistance              |
 | ----------- | ------------------------------------ |
-| ID |troll_throw
-| Type | [Onehandedweapon](../../types/onehandedweapon)
+| ID |MeadBasePoisonResist
+| Type | [Material](../../types/material)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
 | Movespeed Pen. | 0%
-| Wielding | One-handed
 
 
 -------------
 
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Honey](/assets/honey.png)](../../item/honey) [Honey](../honey) x 10</pre> |
+| <pre>[![Thistle](/assets/thistle.png)](../../item/thistle) [Thistle](../thistle) x 5</pre> |
+| <pre>[![Neck tail](/assets/neck_tail.png)](../../item/neck_tail) [Neck tail](../neck_tail) x 1</pre> |
+| <pre>[![Coal](/assets/coal.png)](../../item/coal) [Coal](../coal) x 10</pre> |
+
 ### Value table
 |c1|c2|
 |----|----|
-|name|GoblinShaman_attack_fireball|
+|name|MeadBasePoisonResist|
 |m_quality|1|
 |m_variant|0|
 |m_durability|100|
-|m_name|fireballattack|
-|m_name_EN|fireballattack|
-|m_description||
-|m_description_EN||
-|m_aiAttackInterval|3|
-|m_aiAttackMaxAngle|10|
-|m_aiAttackRange|20|
+|m_name|$item_meadbasepoisonresist|
+|m_name_EN|Mead base: Poison resistance|
+|m_description|$item_meadbase_description|
+|m_description_EN|Needs to be fermented.|
+|m_aiAttackInterval|2|
+|m_aiAttackMaxAngle|5|
+|m_aiAttackRange|2|
 |m_aiAttackRangeMin|0|
 |m_aiPrioritized|false|
 |m_aiTargetType|Enemy|
@@ -55,9 +63,9 @@ Fireballattack is an item found in Valheim.
 |m_animationState|OneHanded|
 |m_ammoType||
 |m_armor|10|
-|m_attackForce|80|
+|m_attackForce|50|
 |m_backstabBonus|4|
-|m_blockable|true|
+|m_blockable|false|
 |m_blockPower|10|
 |m_blockPowerPerLevel|0|
 |m_canBeReparied|true|
@@ -65,7 +73,7 @@ Fireballattack is an item found in Valheim.
 |m_deflectionForcePerLevel|0|
 |m_destroyBroken|true|
 |m_dlc||
-|m_dodgeable|true|
+|m_dodgeable|false|
 |m_durabilityDrain|0|
 |m_durabilityPerLevel|50|
 |m_equipDuration|1|
@@ -96,9 +104,8 @@ Fireballattack is an item found in Valheim.
 |m_damageModifiers|[  ]|
 |m_trophyPos|{"x":0,"y":0}|
 |m_skillType|Swords|
-|m_itemType|OneHandedWeapon|
+|m_itemType|Material|
 |m_attackStatusEffect|null|
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-atusEffect|null|

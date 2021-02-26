@@ -19,7 +19,7 @@ Log is an item found in Valheim.
 
 |        | Log              |
 | ----------- | ------------------------------------ |
-| ID |troll_log_swing_v
+| ID |troll_log_swing_h
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)

@@ -19,7 +19,7 @@ Braided 4 is an item found in Valheim.
 
 |        | Braided 4              |
 | ----------- | ------------------------------------ |
-| ID |Beard10
+| ID |Hair13
 | Type | [Customization](../../types/customization)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -100,3 +100,4 @@ Braided 4 is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
+

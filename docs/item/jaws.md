@@ -19,7 +19,7 @@ Jaws is an item found in Valheim.
 
 |        | Jaws              |
 | ----------- | ------------------------------------ |
-| ID |Neck_BiteAttack
+| ID |Leech_BiteAttack
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -101,5 +101,4 @@ Jaws is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-
 null|

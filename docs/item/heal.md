@@ -19,7 +19,7 @@ Heal is an item found in Valheim.
 
 |        | Heal              |
 | ----------- | ------------------------------------ |
-| ID |Greydwarf_shaman_heal
+| ID |GoblinShaman_attack_protect
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -101,4 +101,3 @@ Heal is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-null|

@@ -19,7 +19,7 @@ Braided 3 is an item found in Valheim.
 
 |        | Braided 3              |
 | ----------- | ------------------------------------ |
-| ID |Hair12
+| ID |Beard9
 | Type | [Customization](../../types/customization)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)

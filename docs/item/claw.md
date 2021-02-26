@@ -19,7 +19,7 @@ Claw is an item found in Valheim.
 
 |        | Claw              |
 | ----------- | ------------------------------------ |
-| ID |Fenring_attack_claw
+| ID |Fenring_attack_jump
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)

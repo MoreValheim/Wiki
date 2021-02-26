@@ -19,7 +19,7 @@ Scream is an item found in Valheim.
 
 |        | Scream              |
 | ----------- | ------------------------------------ |
-| ID |Fenring_taunt
+| ID |GoblinKing_Taunt
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -101,5 +101,3 @@ Scream is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-
-|

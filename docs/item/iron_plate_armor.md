@@ -108,5 +108,6 @@ Iron plate armor is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-ct|null|
+l|
+null|
 |null|

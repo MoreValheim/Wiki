@@ -19,7 +19,7 @@ Yagluth thing is an item found in Valheim.
 
 |        | Yagluth Thing              |
 | ----------- | ------------------------------------ |
-| ID |YagluthDrop
+| ID |VegvisirShard_Bonemass
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -100,4 +100,3 @@ Yagluth thing is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-fect|null|

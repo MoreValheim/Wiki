@@ -19,7 +19,7 @@ Spawn is an item found in Valheim.
 
 |        | Spawn              |
 | ----------- | ------------------------------------ |
-| ID |GoblinKing_Meteors
+| ID |gd_king_rootspawn
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -101,3 +101,4 @@ Spawn is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
+
