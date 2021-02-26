@@ -22,7 +22,7 @@ Abyssal razor is an item found in Valheim.
 | ID |KnifeChitin
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 0.300000011920929 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Abyssal razor is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fine wood](/assets/fine_wood.png)](../../item/fine_wood) [Fine wood](../fine_wood) x 4</pre> |
+| <pre>[![Chitin](/assets/chitin.png)](../../item/chitin) [Chitin](../chitin) x 20</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

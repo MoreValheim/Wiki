@@ -22,7 +22,7 @@ Stone pickaxe is an item found in Valheim.
 | ID |PickaxeStone
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,13 @@ Stone pickaxe is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 3</pre> |
+| <pre>[![Stone](/assets/stone.png)](../../item/stone) [Stone](../stone) x 10</pre> |
 
 ### Value table
 |c1|c2|

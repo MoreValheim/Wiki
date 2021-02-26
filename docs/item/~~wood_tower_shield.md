@@ -22,7 +22,7 @@
 | ID |ShieldWoodTower
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 10</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 6</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

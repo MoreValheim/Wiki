@@ -19,7 +19,7 @@ Fireballattack is an item found in Valheim.
 
 |        | Fireballattack              |
 | ----------- | ------------------------------------ |
-| ID |imp_fireball_attack
+| ID |troll_throw
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -101,4 +101,5 @@ Fireballattack is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
+t|null|
 ct|null|

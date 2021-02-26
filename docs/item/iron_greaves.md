@@ -22,7 +22,7 @@ Iron greaves is an item found in Valheim.
 | ID |ArmorIronLegs
 | Type | [Legs](../../types/legs)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 15 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Iron greaves is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 20</pre> |
+| <pre>[![Deer hide](/assets/deer_hide.png)](../../item/deer_hide) [Deer hide](../deer_hide) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

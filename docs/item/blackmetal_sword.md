@@ -22,7 +22,7 @@ Blackmetal sword is an item found in Valheim.
 | ID |SwordBlackmetal
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 0.800000011920929 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Blackmetal sword is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fine wood](/assets/fine_wood.png)](../../item/fine_wood) [Fine wood](../fine_wood) x 2</pre> |
+| <pre>[![Black metal](/assets/black_metal.png)](../../item/black_metal) [Black metal](../black_metal) x 20</pre> |
+| <pre>[![Linen thread](/assets/linen_thread.png)](../../item/linen_thread) [Linen thread](../linen_thread) x 5</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

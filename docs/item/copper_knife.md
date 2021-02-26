@@ -22,7 +22,7 @@ Copper knife is an item found in Valheim.
 | ID |KnifeCopper
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 0.300000011920929 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Copper knife is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 2</pre> |
+| <pre>[![Copper](/assets/copper.png)](../../item/copper) [Copper](../copper) x 8</pre> |
+| <pre>[![Greydwarf eye](/assets/greydwarf_eye.png)](../../item/greydwarf_eye) [Greydwarf eye](../greydwarf_eye) x 0</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

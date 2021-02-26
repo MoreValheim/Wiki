@@ -22,7 +22,7 @@ Padded helmet is an item found in Valheim.
 | ID |HelmetPadded
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Padded helmet is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 10</pre> |
+| <pre>[![Linen thread](/assets/linen_thread.png)](../../item/linen_thread) [Linen thread](../linen_thread) x 15</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

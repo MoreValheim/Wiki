@@ -22,7 +22,7 @@ Bronze spear is an item found in Valheim.
 | ID |SpearBronze
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Bronze spear is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 5</pre> |
+| <pre>[![Bronze](/assets/bronze.png)](../../item/bronze) [Bronze](../bronze) x 6</pre> |
+| <pre>[![Deer hide](/assets/deer_hide.png)](../../item/deer_hide) [Deer hide](../deer_hide) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

@@ -22,7 +22,7 @@ Ooze bomb is an item found in Valheim.
 | ID |BombOoze
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 0.300000011920929 |
 | Max Stack | 50 |
 | Teleportable | ✓
@@ -31,6 +31,16 @@ Ooze bomb is an item found in Valheim.
 
 
 -------------
+
+### Crafting
+
+<small>Crafts 5</small>
+
+| Materials needed |
+| - |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 5</pre> |
+| <pre>[![Ooze](/assets/ooze.png)](../../item/ooze) [Ooze](../ooze) x 10</pre> |
+| <pre>[![Resin](/assets/resin.png)](../../item/resin) [Resin](../resin) x 3</pre> |
 
 ### Value table
 |c1|c2|

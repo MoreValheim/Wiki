@@ -31,6 +31,13 @@ Hammer is an item found in Valheim.
 
 -------------
 
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 3</pre> |
+| <pre>[![Stone](/assets/stone.png)](../../item/stone) [Stone](../stone) x 2</pre> |
+
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
 | - | - | - | - | - | - | - 

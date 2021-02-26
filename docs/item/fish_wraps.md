@@ -22,7 +22,7 @@ Fish wraps is an item found in Valheim.
 | ID |FishWraps
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Fish wraps is an item found in Valheim.
 | Effects | ❤️ Max Health 60<br>⚡ Max Stamina 90<br>🕒 Duration 2400 second(s) <br>💕 Healing 4hp/tick <br>
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fish cooked](/assets/fish_cooked.png)](../../item/fish_cooked) [Fish cooked](../fish_cooked) x 2</pre> |
+| <pre>[![Barley flour](/assets/barley_flour.png)](../../item/barley_flour) [Barley flour](../barley_flour) x 4</pre> |
 
 ### Value table
 |c1|c2|

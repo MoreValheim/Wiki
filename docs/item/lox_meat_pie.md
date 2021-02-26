@@ -22,7 +22,7 @@ Lox meat pie is an item found in Valheim.
 | ID |LoxPie
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Lox meat pie is an item found in Valheim.
 | Effects | ❤️ Max Health 80<br>⚡ Max Stamina 80<br>🕒 Duration 2400 second(s) <br>💕 Healing 4hp/tick <br>
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Cloudberry](/assets/cloudberry.png)](../../item/cloudberry) [Cloudberry](../cloudberry) x 2</pre> |
+| <pre>[![Cooked lox meat](/assets/cooked_lox_meat.png)](../../item/cooked_lox_meat) [Cooked lox meat](../cooked_lox_meat) x 2</pre> |
+| <pre>[![Barley flour](/assets/barley_flour.png)](../../item/barley_flour) [Barley flour](../barley_flour) x 4</pre> |
 
 ### Value table
 |c1|c2|

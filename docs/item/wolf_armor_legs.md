@@ -22,7 +22,7 @@ Wolf armor legs is an item found in Valheim.
 | ID |ArmorWolfLegs
 | Type | [Legs](../../types/legs)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 15 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Wolf armor legs is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 20</pre> |
+| <pre>[![Wolf pelt](/assets/wolf_pelt.png)](../../item/wolf_pelt) [Wolf pelt](../wolf_pelt) x 5</pre> |
+| <pre>[![Wolf fang](/assets/wolf_fang.png)](../../item/wolf_fang) [Wolf fang](../wolf_fang) x 4</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

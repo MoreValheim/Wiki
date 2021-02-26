@@ -22,7 +22,7 @@ Iron sledge is an item found in Valheim.
 | ID |SledgeIron
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,15 @@ Iron sledge is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Elder bark](/assets/elder_bark.png)](../../item/elder_bark) [Elder bark](../elder_bark) x 10</pre> |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 30</pre> |
+| <pre>[![Ymir remains](/assets/ymir_remains.png)](../../item/ymir_remains) [Ymir remains](../ymir_remains) x 4</pre> |
+| <pre>[![Trophy draugr elite](/assets/trophy_draugr_elite.png)](../../item/trophy_draugr_elite) [Trophy draugr elite](../trophy_draugr_elite) x 1</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

@@ -22,7 +22,7 @@ Sausages is an item found in Valheim.
 | ID |Sausages
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 0.5 |
 | Max Stack | 20 |
 | Teleportable | ✓
@@ -30,6 +30,16 @@ Sausages is an item found in Valheim.
 | Effects | ❤️ Max Health 60<br>⚡ Max Stamina 40<br>🕒 Duration 1600 second(s) <br>💕 Healing 3hp/tick <br>
 
 -------------
+
+### Crafting
+
+<small>Crafts 4</small>
+
+| Materials needed |
+| - |
+| <pre>[![Entrails](/assets/entrails.png)](../../item/entrails) [Entrails](../entrails) x 2</pre> |
+| <pre>[![Raw meat](/assets/raw_meat.png)](../../item/raw_meat) [Raw meat](../raw_meat) x 1</pre> |
+| <pre>[![Thistle](/assets/thistle.png)](../../item/thistle) [Thistle](../thistle) x 4</pre> |
 
 ### Value table
 |c1|c2|

@@ -22,7 +22,7 @@ Bronze nails is an item found in Valheim.
 | ID |BronzeNails
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 0.5 |
 | Max Stack | 100 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Bronze nails is an item found in Valheim.
 
 
 -------------
+
+### Crafting
+
+<small>Crafts 20</small>
+
+| Materials needed |
+| - |
+| <pre>[![Bronze](/assets/bronze.png)](../../item/bronze) [Bronze](../bronze) x 1</pre> |
 
 ### Value table
 |c1|c2|

@@ -22,7 +22,7 @@ Sharpening stone is an item found in Valheim.
 | ID |SharpeningStone
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Stonecutter](../../item/stonecutter)
 | Weight | 6 |
 | Max Stack | 20 |
 | Teleportable | ✓
@@ -30,6 +30,12 @@ Sharpening stone is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Stone](/assets/stone.png)](../../item/stone) [Stone](../stone) x 5</pre> |
 
 ### Value table
 |c1|c2|

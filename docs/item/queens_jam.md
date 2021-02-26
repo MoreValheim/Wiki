@@ -22,7 +22,7 @@ Queens jam is an item found in Valheim.
 | ID |QueensJam
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
@@ -30,6 +30,15 @@ Queens jam is an item found in Valheim.
 | Effects | ❤️ Max Health 30<br>⚡ Max Stamina 40<br>🕒 Duration 1200 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
+
+### Crafting
+
+<small>Crafts 4</small>
+
+| Materials needed |
+| - |
+| <pre>[![Raspberry](/assets/raspberry.png)](../../item/raspberry) [Raspberry](../raspberry) x 8</pre> |
+| <pre>[![Blueberries](/assets/blueberries.png)](../../item/blueberries) [Blueberries](../blueberries) x 8</pre> |
 
 ### Value table
 |c1|c2|

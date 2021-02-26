@@ -22,7 +22,7 @@ Bronze helmet is an item found in Valheim.
 | ID |HelmetBronze
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Bronze helmet is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Bronze](/assets/bronze.png)](../../item/bronze) [Bronze](../bronze) x 5</pre> |
+| <pre>[![Deer hide](/assets/deer_hide.png)](../../item/deer_hide) [Deer hide](../deer_hide) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

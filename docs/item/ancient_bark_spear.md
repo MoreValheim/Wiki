@@ -22,7 +22,7 @@ Ancient bark spear is an item found in Valheim.
 | ID |SpearElderbark
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Ancient bark spear is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Troll hide](/assets/troll_hide.png)](../../item/troll_hide) [Troll hide](../troll_hide) x 4</pre> |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 10</pre> |
+| <pre>[![Elder bark](/assets/elder_bark.png)](../../item/elder_bark) [Elder bark](../elder_bark) x 10</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

@@ -22,7 +22,7 @@ Wolf armor chest is an item found in Valheim.
 | ID |ArmorWolfChest
 | Type | [Chest](../../types/chest)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 15 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Wolf armor chest is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 20</pre> |
+| <pre>[![Wolf pelt](/assets/wolf_pelt.png)](../../item/wolf_pelt) [Wolf pelt](../wolf_pelt) x 5</pre> |
+| <pre>[![Chain](/assets/chain.png)](../../item/chain) [Chain](../chain) x 1</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

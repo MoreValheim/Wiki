@@ -22,7 +22,7 @@ Crude bow is an item found in Valheim.
 | ID |Bow
 | Type | [Bow](../../types/bow)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Crude bow is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 10</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 8</pre> |
+| <pre>[![Deer hide](/assets/deer_hide.png)](../../item/deer_hide) [Deer hide](../deer_hide) x 0</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Block Power | Parry Force | Parry Bonus

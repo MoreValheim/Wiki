@@ -22,7 +22,7 @@ Wolf fur cape is an item found in Valheim.
 | ID |CapeWolf
 | Type | [Shoulder](../../types/shoulder)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Wolf fur cape is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wolf pelt](/assets/wolf_pelt.png)](../../item/wolf_pelt) [Wolf pelt](../wolf_pelt) x 6</pre> |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 4</pre> |
+| <pre>[![Trophy wolf](/assets/trophy_wolf.png)](../../item/trophy_wolf) [Trophy wolf](../trophy_wolf) x 1</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

@@ -19,7 +19,7 @@ Fart is an item found in Valheim.
 
 |        | Fart              |
 | ----------- | ------------------------------------ |
-| ID |blob_attack_aoe
+| ID |blobelite_attack_aoe
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -101,4 +101,3 @@ Fart is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-ull|

@@ -22,7 +22,7 @@ Padded greaves is an item found in Valheim.
 | ID |ArmorPaddedGreaves
 | Type | [Legs](../../types/legs)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 10 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Padded greaves is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 10</pre> |
+| <pre>[![Linen thread](/assets/linen_thread.png)](../../item/linen_thread) [Linen thread](../linen_thread) x 20</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

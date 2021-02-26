@@ -22,7 +22,7 @@ Flint axe is an item found in Valheim.
 | ID |AxeFlint
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Flint axe is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 4</pre> |
+| <pre>[![Flint](/assets/flint.png)](../../item/flint) [Flint](../flint) x 6</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 0</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

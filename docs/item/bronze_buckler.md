@@ -22,7 +22,7 @@ Bronze buckler is an item found in Valheim.
 | ID |ShieldBronzeBuckler
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Bronze buckler is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Bronze](/assets/bronze.png)](../../item/bronze) [Bronze](../bronze) x 10</pre> |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 4</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

@@ -22,7 +22,7 @@ Linen cape is an item found in Valheim.
 | ID |CapeLinen
 | Type | [Shoulder](../../types/shoulder)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Linen cape is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Linen thread](/assets/linen_thread.png)](../../item/linen_thread) [Linen thread](../linen_thread) x 20</pre> |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 1</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

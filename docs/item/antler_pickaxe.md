@@ -22,7 +22,7 @@ Antler pickaxe is an item found in Valheim.
 | ID |PickaxeAntler
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,13 @@ Antler pickaxe is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 10</pre> |
+| <pre>[![Hard antler](/assets/hard_antler.png)](../../item/hard_antler) [Hard antler](../hard_antler) x 1</pre> |
 
 ### Value table
 |c1|c2|

@@ -103,7 +103,19 @@ Club is an item found in Valheim.
 |
 ect|null|
 |m_setStatusEffect|null|
-s|0|
+maxQuality|4|
+|m_maxStackSize|1|
+|m_movementModifier|-0.0500000007450581|
+|m_questItem|false|
+|m_setName||
+|m_setSize|0|
+|m_teleportable|true|
+|m_timedBlockBonus|2|
+|m_toolTier|0|
+|m_useDurability|true|
+|m_useDurabilityDrain|1|
+|m_value|0|
+|m_variants|0|
 |m_weight|2|
 |m_damageModifiers|[  ]|
 |m_trophyPos|{"x":0,"y":0}|

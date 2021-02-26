@@ -22,7 +22,7 @@ Hoe is an item found in Valheim.
 | ID |Hoe
 | Type | [Tool](../../types/tool)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Hoe is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 5</pre> |
+| <pre>[![Stone](/assets/stone.png)](../../item/stone) [Stone](../stone) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

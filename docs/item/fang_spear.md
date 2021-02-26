@@ -22,7 +22,7 @@ Fang spear is an item found in Valheim.
 | ID |SpearWolfFang
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,15 @@ Fang spear is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Elder bark](/assets/elder_bark.png)](../../item/elder_bark) [Elder bark](../elder_bark) x 10</pre> |
+| <pre>[![Wolf fang](/assets/wolf_fang.png)](../../item/wolf_fang) [Wolf fang](../wolf_fang) x 4</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 2</pre> |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

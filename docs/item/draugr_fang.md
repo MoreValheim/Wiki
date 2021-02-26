@@ -22,7 +22,7 @@ Draugr fang is an item found in Valheim.
 | ID |BowDraugrFang
 | Type | [Bow](../../types/bow)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,15 @@ Draugr fang is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Elder bark](/assets/elder_bark.png)](../../item/elder_bark) [Elder bark](../elder_bark) x 10</pre> |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 20</pre> |
+| <pre>[![Deer hide](/assets/deer_hide.png)](../../item/deer_hide) [Deer hide](../deer_hide) x 2</pre> |
+| <pre>[![Guck](/assets/guck.png)](../../item/guck) [Guck](../guck) x 10</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

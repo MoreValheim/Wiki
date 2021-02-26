@@ -22,7 +22,7 @@ Cultivator is an item found in Valheim.
 | ID |Cultivator
 | Type | [Tool](../../types/tool)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Cultivator is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Round log](/assets/round_log.png)](../../item/round_log) [Round log](../round_log) x 5</pre> |
+| <pre>[![Bronze](/assets/bronze.png)](../../item/bronze) [Bronze](../bronze) x 5</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

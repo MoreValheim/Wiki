@@ -22,7 +22,7 @@ Porcupine is an item found in Valheim.
 | ID |MaceNeedle
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,15 @@ Porcupine is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fine wood](/assets/fine_wood.png)](../../item/fine_wood) [Fine wood](../fine_wood) x 5</pre> |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 20</pre> |
+| <pre>[![Needle](/assets/needle.png)](../../item/needle) [Needle](../needle) x 5</pre> |
+| <pre>[![Linen thread](/assets/linen_thread.png)](../../item/linen_thread) [Linen thread](../linen_thread) x 10</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

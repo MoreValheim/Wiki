@@ -21,7 +21,7 @@ img {width:30px;}
 
 -------------
 
-The Portal is a buildable [object](../../objects/) found in Valheim.
+The Portal is a buildable [object](../../object/) found in Valheim.
 
 Two connected portals allow players to teleport between them wherever they are on the [world](../../misc/world).
 
@@ -29,10 +29,10 @@ Two connected portals allow players to teleport between them wherever they are o
 |        | Copper                  |
 | ----------- | ------------------------------------ |
 | Type       | [Misc.](../../type/misc)  |
-| Source      | [Workbench](../../objects/workbench) |
+| Source      | [Workbench](../../object/workbench) |
 | Durability | ?
 | Size | 4x4
-| To unlock | - obtain [Fine Wood](../../items/fine_wood) |
+| To unlock | - obtain [Fine Wood](../../item/fine_wood) |
 
 ### Connecting Portals
 
@@ -46,16 +46,16 @@ Once the portal is placed, a player must interact with it via "Use" to set a tag
 
 | Materials Needed |
 | - |
-| [![Greydwarf Eye](/assets/greydwarf_eye.png)](../../items/greydwarf_eye)[Greydwarf Eye](../../items/greydwarf_eye) x 10 |
-| [![Fine Wood](/assets/fine_wood.png)](../../items/fine_wood)[Fine Wood](../../items/fine_wood) x 20 |
-| [![Surtling Core](/assets/surtling_core.png)](../../items/surtling_core)[Surtling Core](../../items/surtling_core) x 2 |
+| [![Greydwarf Eye](/assets/greydwarf_eye.png)](../../item/greydwarf_eye)[Greydwarf Eye](../../item/greydwarf_eye) x 10 |
+| [![Fine Wood](/assets/fine_wood.png)](../../item/fine_wood)[Fine Wood](../../item/fine_wood) x 20 |
+| [![Surtling Core](/assets/surtling_core.png)](../../item/surtling_core)[Surtling Core](../../item/surtling_core) x 2 |
 
 
 #### How to build:
 
-You need to have a [workbench](../../objects/workbench) nearby in order to construct a portal.
+You need to have a [workbench](../../object/workbench) nearby in order to construct a portal.
 
-1. Equip your [hammer](../../items/hammer)
+1. Equip your [hammer](../../item/hammer)
 2. Right-click
 3. Press [Q/E] to switch to the [Misc tab](../../misc/building_interface#misc_tab) of the [building interface](../../misc/building_interface)
 4. Left-click the workbench on the displayed page
@@ -66,9 +66,9 @@ You need to have a [workbench](../../objects/workbench) nearby in order to const
 
 ### Objects denying teleportation
 
-Some objects in the game prevent the player to teleport, they are recognizable by a little blue portal crossed in red on their image. All ores and their smelted counterparts cannot be teleported, often requiring players to use [Longships](../../objects/longship) or hauling the ore over long land distances to return to base.
+Some objects in the game prevent the player to teleport, they are recognizable by a little blue portal crossed in red on their image. All ores and their smelted counterparts cannot be teleported, often requiring players to use [Longships](../../object/longship) or hauling the ore over long land distances to return to base.
 
 
 | List of objects preventing teleportation |
 | - |
-| - [Tin Ore](../../items/tin_ore) <br> - [Tin](../../items/tin) <br> - [Copper Ore](../../items/copper_ore) <br> - [Copper](../../items/copper) <br> - [Bronze](../../items/bronze) <br> - [Scrap Iron](../../items/scrap_iron) <br> - [Iron](../../items/iron) <br> - [Black Metal Scrap](../../items/black_metal_scrap) <br> - [Silver Ore](../../items/silver_ore) <br> - [Silver](../../items/silver) <br> - [Dragon Egg](../../items/dragon_egg)
+| - [Tin Ore](../../item/tin_ore) <br> - [Tin](../../item/tin) <br> - [Copper Ore](../../item/copper_ore) <br> - [Copper](../../item/copper) <br> - [Bronze](../../item/bronze) <br> - [Scrap Iron](../../item/scrap_iron) <br> - [Iron](../../item/iron) <br> - [Black Metal Scrap](../../item/black_metal_scrap) <br> - [Silver Ore](../../item/silver_ore) <br> - [Silver](../../item/silver) <br> - [Dragon Egg](../../item/dragon_egg)

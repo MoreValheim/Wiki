@@ -22,7 +22,7 @@ Hood of odin is an item found in Valheim.
 | ID |HelmetOdin
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Hood of odin is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 10</pre> |
+| <pre>[![Coal](/assets/coal.png)](../../item/coal) [Coal](../coal) x 4</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

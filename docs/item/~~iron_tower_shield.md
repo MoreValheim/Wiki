@@ -22,7 +22,7 @@
 | ID |ShieldIronTower
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fine wood](/assets/fine_wood.png)](../../item/fine_wood) [Fine wood](../fine_wood) x 15</pre> |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 10</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

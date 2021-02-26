@@ -22,7 +22,7 @@ Needle arrow is an item found in Valheim.
 | ID |ArrowNeedle
 | Type | [Ammo](../../types/ammo)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 0.100000001490116 |
 | Max Stack | 100 |
 | Teleportable | ✓
@@ -30,6 +30,15 @@ Needle arrow is an item found in Valheim.
 
 
 -------------
+
+### Crafting
+
+<small>Crafts 20</small>
+
+| Materials needed |
+| - |
+| <pre>[![Needle](/assets/needle.png)](../../item/needle) [Needle](../needle) x 4</pre> |
+| <pre>[![Feathers](/assets/feathers.png)](../../item/feathers) [Feathers](../feathers) x 2</pre> |
 
 ### Value table
 |c1|c2|

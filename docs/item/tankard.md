@@ -22,7 +22,7 @@ Tankard is an item found in Valheim.
 | ID |Tankard
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,13 @@ Tankard is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fine wood](/assets/fine_wood.png)](../../item/fine_wood) [Fine wood](../fine_wood) x 5</pre> |
+| <pre>[![Resin](/assets/resin.png)](../../item/resin) [Resin](../resin) x 2</pre> |
 
 ### Value table
 |c1|c2|

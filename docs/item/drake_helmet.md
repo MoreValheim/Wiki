@@ -22,7 +22,7 @@ Drake helmet is an item found in Valheim.
 | ID |HelmetDrake
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 3 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Drake helmet is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 20</pre> |
+| <pre>[![Wolf pelt](/assets/wolf_pelt.png)](../../item/wolf_pelt) [Wolf pelt](../wolf_pelt) x 2</pre> |
+| <pre>[![Trophy hatchling](/assets/trophy_hatchling.png)](../../item/trophy_hatchling) [Trophy hatchling](../trophy_hatchling) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

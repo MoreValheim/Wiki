@@ -12,16 +12,16 @@ img {width:30px;}
 
 -------------
 
-Smelter is a buildable [object](../../objects/) found in Valheim.
+Smelter is a buildable [object](../../object/) found in Valheim.
 
 
 |        | Copper                  |
 | ----------- | ------------------------------------ |
 | Type       | [Crafting](../../type/crafting)  |
-| Source      | [Workbench](../../objects/workbench) |
+| Source      | [Workbench](../../object/workbench) |
 | Durability | ?
 | Size | ~2x2x4
-| To unlock | - obtain [Surtling Core](../../items/surtling_core) |
+| To unlock | - obtain [Surtling Core](../../item/surtling_core) |
 
 It is possible to speed up the smelting process by filling up the smelter before [sleeping](../../misc/sleep). During the [sleep phase](../../misc/sleep), the smelter can be heard producing refined ore at an accelerated rate.
 
@@ -33,15 +33,15 @@ It is possible to speed up the smelting process by filling up the smelter before
 
 | Materials Needed |
 | - |
-| [![Stone](/assets/stone.png)](../../items/stone) x 20 |
-| [![Surtling Core](/assets/surtling_core.png)](../../items/surtling_core) x 5 |
+| [![Stone](/assets/stone.png)](../../item/stone) x 20 |
+| [![Surtling Core](/assets/surtling_core.png)](../../item/surtling_core) x 5 |
 
 
 #### How to build:
 
-You need to have a [workbench](../../objects/workbench) nearby in order to construct a smelter.
+You need to have a [workbench](../../object/workbench) nearby in order to construct a smelter.
 
-1. Equip your [hammer](../../items/hammer)
+1. Equip your [hammer](../../item/hammer)
 2. Right-click
 3. Press [Q/E] to switch to the [Crafting tab](../../misc/building_interface#crafting_tab) of the [building interface](../../misc/building_interface)
 4. Left-click the smelter on the displayed page

@@ -18,8 +18,8 @@ td{
 </style>
 | Metals |
 | - |
-| [![Copper](/assets/copper.png)](../../items/copper)[Copper](../../items/copper)|
-| [![Tin](/assets/tin.png)](../../items/tin)[Tin](../../items/tin)|
-| [![Bronze](/assets/bronze.png)](../../items/bronze)[Bronze](../../items/bronze)|
-| [![Iron](/assets/iron.png)](../../items/iron)[Iron](../../items/iron)|
-| [![Silver](/assets/silver.png)]((../../items/silver))[Silver](../../items/silver)|
+| [![Copper](/assets/copper.png)](../../item/copper)[Copper](../../item/copper)|
+| [![Tin](/assets/tin.png)](../../item/tin)[Tin](../../item/tin)|
+| [![Bronze](/assets/bronze.png)](../../item/bronze)[Bronze](../../item/bronze)|
+| [![Iron](/assets/iron.png)](../../item/iron)[Iron](../../item/iron)|
+| [![Silver](/assets/silver.png)]((../../item/silver))[Silver](../../item/silver)|

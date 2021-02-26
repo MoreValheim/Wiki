@@ -22,7 +22,7 @@ Troll hide cape is an item found in Valheim.
 | ID |CapeTrollHide
 | Type | [Shoulder](../../types/shoulder)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Troll hide cape is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Troll hide](/assets/troll_hide.png)](../../item/troll_hide) [Troll hide](../troll_hide) x 10</pre> |
+| <pre>[![Bone fragments](/assets/bone_fragments.png)](../../item/bone_fragments) [Bone fragments](../bone_fragments) x 10</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

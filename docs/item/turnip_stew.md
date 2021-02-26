@@ -22,7 +22,7 @@ Turnip stew is an item found in Valheim.
 | ID |TurnipStew
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Turnip stew is an item found in Valheim.
 | Effects | ❤️ Max Health 50<br>⚡ Max Stamina 50<br>🕒 Duration 1600 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Raw meat](/assets/raw_meat.png)](../../item/raw_meat) [Raw meat](../raw_meat) x 1</pre> |
+| <pre>[![Turnip](/assets/turnip.png)](../../item/turnip) [Turnip](../turnip) x 3</pre> |
 
 ### Value table
 |c1|c2|

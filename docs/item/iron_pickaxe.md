@@ -22,7 +22,7 @@ Iron pickaxe is an item found in Valheim.
 | ID |PickaxeIron
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,13 @@ Iron pickaxe is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Round log](/assets/round_log.png)](../../item/round_log) [Round log](../round_log) x 3</pre> |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 20</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

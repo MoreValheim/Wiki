@@ -31,6 +31,13 @@ Torch is an item found in Valheim.
 
 -------------
 
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 1</pre> |
+| <pre>[![Resin](/assets/resin.png)](../../item/resin) [Resin](../resin) x 1</pre> |
+
 ### Value table
 |c1|c2|
 |----|----|
@@ -99,6 +106,4 @@ Torch is an item found in Valheim.
 |m_attackStatusEffect|null|
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
-|m_setStatusEffect|null|
-ct|null|
 |m_setStatusEffect|null|

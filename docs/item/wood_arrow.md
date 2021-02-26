@@ -22,7 +22,7 @@ Wood arrow is an item found in Valheim.
 | ID |ArrowWood
 | Type | [Ammo](../../types/ammo)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 0.100000001490116 |
 | Max Stack | 100 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Wood arrow is an item found in Valheim.
 
 
 -------------
+
+### Crafting
+
+<small>Crafts 20</small>
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 8</pre> |
 
 ### Value table
 |c1|c2|

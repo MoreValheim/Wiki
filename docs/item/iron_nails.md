@@ -22,7 +22,7 @@ Iron nails is an item found in Valheim.
 | ID |IronNails
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 0.5 |
 | Max Stack | 100 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Iron nails is an item found in Valheim.
 
 
 -------------
+
+### Crafting
+
+<small>Crafts 10</small>
+
+| Materials needed |
+| - |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 1</pre> |
 
 ### Value table
 |c1|c2|

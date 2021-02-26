@@ -22,7 +22,7 @@ Lox cape is an item found in Valheim.
 | ID |CapeLox
 | Type | [Shoulder](../../types/shoulder)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Lox cape is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Lox pelt](/assets/lox_pelt.png)](../../item/lox_pelt) [Lox pelt](../lox_pelt) x 6</pre> |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

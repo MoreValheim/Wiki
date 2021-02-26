@@ -22,7 +22,7 @@ Serpent stew is an item found in Valheim.
 | ID |SerpentStew
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Serpent stew is an item found in Valheim.
 | Effects | ❤️ Max Health 80<br>⚡ Max Stamina 80<br>🕒 Duration 2400 second(s) <br>💕 Healing 4hp/tick <br>
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Mushroom](/assets/mushroom.png)](../../item/mushroom) [Mushroom](../mushroom) x 1</pre> |
+| <pre>[![Serpent meat cooked](/assets/serpent_meat_cooked.png)](../../item/serpent_meat_cooked) [Serpent meat cooked](../serpent_meat_cooked) x 1</pre> |
+| <pre>[![Honey](/assets/honey.png)](../../item/honey) [Honey](../honey) x 2</pre> |
 
 ### Value table
 |c1|c2|

@@ -22,7 +22,7 @@ Bronze sword is an item found in Valheim.
 | ID |SwordBronze
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 0.800000011920929 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Bronze sword is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Wood](/assets/wood.png)](../../item/wood) [Wood](../wood) x 2</pre> |
+| <pre>[![Bronze](/assets/bronze.png)](../../item/bronze) [Bronze](../bronze) x 8</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 2</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus
@@ -107,8 +115,5 @@ Bronze sword is an item found in Valheim.
 |m_itemType|OneHandedWeapon|
 |m_attackStatusEffect|null|
 |m_consumeStatusEffect|null|
-|m_equipStatusEffect|null|
-|m_setStatusEffect|null|
-fect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|

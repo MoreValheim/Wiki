@@ -22,7 +22,7 @@ Troll leather pants is an item found in Valheim.
 | ID |ArmorTrollLeatherLegs
 | Type | [Legs](../../types/legs)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,12 @@ Troll leather pants is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Troll hide](/assets/troll_hide.png)](../../item/troll_hide) [Troll hide](../troll_hide) x 5</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

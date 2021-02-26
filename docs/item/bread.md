@@ -22,7 +22,7 @@ Bread is an item found in Valheim.
 | ID |Bread
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 0.5 |
 | Max Stack | 20 |
 | Teleportable | ✓
@@ -30,6 +30,12 @@ Bread is an item found in Valheim.
 | Effects | ❤️ Max Health 40<br>⚡ Max Stamina 70<br>🕒 Duration 1800 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Barley flour](/assets/barley_flour.png)](../../item/barley_flour) [Barley flour](../barley_flour) x 10</pre> |
 
 ### Value table
 |c1|c2|

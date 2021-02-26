@@ -22,7 +22,7 @@ Carrot soup is an item found in Valheim.
 | ID |CarrotSoup
 | Type | [Consumable](../../types/consumable)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Cauldron](../../item/cauldron)
 | Weight | 1 |
 | Max Stack | 10 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Carrot soup is an item found in Valheim.
 | Effects | ❤️ Max Health 20<br>⚡ Max Stamina 60<br>🕒 Duration 1500 second(s) <br>💕 Healing 2hp/tick <br>
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Mushroom](/assets/mushroom.png)](../../item/mushroom) [Mushroom](../mushroom) x 1</pre> |
+| <pre>[![Carrot](/assets/carrot.png)](../../item/carrot) [Carrot](../carrot) x 3</pre> |
 
 ### Value table
 |c1|c2|

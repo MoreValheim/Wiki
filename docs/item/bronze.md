@@ -22,7 +22,7 @@ Bronze is an item found in Valheim.
 | ID |Bronze
 | Type | [Material](../../types/material)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 12 |
 | Max Stack | 30 |
 | Teleportable | 🗙
@@ -30,6 +30,13 @@ Bronze is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Copper](/assets/copper.png)](../../item/copper) [Copper](../copper) x 2</pre> |
+| <pre>[![Tin](/assets/tin.png)](../../item/tin) [Tin](../tin) x 1</pre> |
 
 ### Value table
 |c1|c2|

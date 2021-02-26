@@ -22,7 +22,7 @@ Frostner is an item found in Valheim.
 | ID |MaceSilver
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 2 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,15 @@ Frostner is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Elder bark](/assets/elder_bark.png)](../../item/elder_bark) [Elder bark](../elder_bark) x 10</pre> |
+| <pre>[![Silver](/assets/silver.png)](../../item/silver) [Silver](../silver) x 30</pre> |
+| <pre>[![Ymir remains](/assets/ymir_remains.png)](../../item/ymir_remains) [Ymir remains](../ymir_remains) x 5</pre> |
+| <pre>[![Freeze gland](/assets/freeze_gland.png)](../../item/freeze_gland) [Freeze gland](../freeze_gland) x 5</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

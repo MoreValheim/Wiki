@@ -22,7 +22,7 @@ Leather helmet is an item found in Valheim.
 | ID |HelmetLeather
 | Type | [Helmet](../../types/helmet)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 1 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,13 @@ Leather helmet is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Deer hide](/assets/deer_hide.png)](../../item/deer_hide) [Deer hide](../deer_hide) x 6</pre> |
+| <pre>[![Bone fragments](/assets/bone_fragments.png)](../../item/bone_fragments) [Bone fragments](../bone_fragments) x 0</pre> |
 
 ### Upgrades
 | Q | Durability | Armor | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

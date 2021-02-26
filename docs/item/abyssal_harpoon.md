@@ -22,7 +22,7 @@ Abyssal harpoon is an item found in Valheim.
 | ID |SpearChitin
 | Type | [Onehandedweapon](../../types/onehandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 1.5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,14 @@ Abyssal harpoon is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fine wood](/assets/fine_wood.png)](../../item/fine_wood) [Fine wood](../fine_wood) x 8</pre> |
+| <pre>[![Chitin](/assets/chitin.png)](../../item/chitin) [Chitin](../chitin) x 30</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 3</pre> |
 
 ### Value table
 |c1|c2|

@@ -19,7 +19,7 @@ Troll trophy is an item found in Valheim.
 
 |        | Troll Trophy              |
 | ----------- | ------------------------------------ |
-| ID |TrophyForestTroll
+| ID |TrophyFrostTroll
 | Type | [Trophie](../../types/trophie)
 | Usage | FALSE<br>
 | Source | [FALSE](../../item/false)
@@ -100,3 +100,4 @@ Troll trophy is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
+

@@ -22,7 +22,7 @@ Serpent scale shield is an item found in Valheim.
 | ID |ShieldSerpentscale
 | Type | [Shield](../../types/shield)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Forge](../../object/forge)
 | Weight | 5 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -30,6 +30,14 @@ Serpent scale shield is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Fine wood](/assets/fine_wood.png)](../../item/fine_wood) [Fine wood](../fine_wood) x 10</pre> |
+| <pre>[![Iron](/assets/iron.png)](../../item/iron) [Iron](../iron) x 4</pre> |
+| <pre>[![Serpent scale](/assets/serpent_scale.png)](../../item/serpent_scale) [Serpent scale](../serpent_scale) x 8</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

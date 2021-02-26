@@ -22,7 +22,7 @@ Stagbreaker is an item found in Valheim.
 | ID |SledgeStagbreaker
 | Type | [Twohandedweapon](../../types/twohandedweapon)
 | Usage | FALSE<br>
-| Source | [FALSE](../../item/false)
+| Source | [Workbench](../../object/workbench)
 | Weight | 4 |
 | Max Stack | 1 |
 | Teleportable | ✓
@@ -31,6 +31,15 @@ Stagbreaker is an item found in Valheim.
 
 
 -------------
+
+### Recipe
+
+| Materials needed |
+| - |
+| <pre>[![Round log](/assets/round_log.png)](../../item/round_log) [Round log](../round_log) x 20</pre> |
+| <pre>[![Trophy deer](/assets/trophy_deer.png)](../../item/trophy_deer) [Trophy deer](../trophy_deer) x 5</pre> |
+| <pre>[![Leather scraps](/assets/leather_scraps.png)](../../item/leather_scraps) [Leather scraps](../leather_scraps) x 2</pre> |
+| <pre>[![Bone fragments](/assets/bone_fragments.png)](../../item/bone_fragments) [Bone fragments](../bone_fragments) x 0</pre> |
 
 ### Upgrades
 | Q | Durability | Backstab Multi. | Knockback | Block Power | Parry Force | Parry Bonus

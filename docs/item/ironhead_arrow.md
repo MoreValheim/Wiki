@@ -100,5 +100,20 @@ Ironhead arrow is an item found in Valheim.
 |m_consumeStatusEffect|null|
 |m_equipStatusEffect|null|
 |m_setStatusEffect|null|
-pStatusEffect|null|
+etSize|0|
+|m_teleportable|true|
+|m_timedBlockBonus|1.5|
+|m_toolTier|0|
+|m_useDurability|false|
+|m_useDurabilityDrain|1|
+|m_value|0|
+|m_variants|0|
+|m_weight|0.100000001490116|
+|m_damageModifiers|[  ]|
+|m_trophyPos|{"x":0,"y":0}|
+|m_skillType|Bows|
+|m_itemType|Ammo|
+|m_attackStatusEffect|null|
+|m_consumeStatusEffect|null|
+|m_equipStatusEffect|null|
 |m_setStatusEffect|null|
